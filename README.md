@@ -4,7 +4,8 @@ UMass STAT535 Project - Movie recommendation
 ## Scicit-learn template
 Our class should look like that and implement the same methods (fit, predict)
 
-http://contrib.scikit-learn.org/project-template/template.html
+- http://contrib.scikit-learn.org/project-template/template.html
+- https://github.com/scikit-learn-contrib/project-template/blob/master/skltemplate/_template.py
 
 ## Possible Second data sets
 - German credit data: https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data)
