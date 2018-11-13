@@ -1,6 +1,13 @@
 # Movie-recommendation-lab
 UMass STAT535 Project - Movie recommendation
 
+## Scicit-learn template
+Our class should look like that and implement the same methods (fit, predict)
+
+http://contrib.scikit-learn.org/project-template/template.html
+
+## Possible Second data sets
+- German credit data: https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data)
 
 ## Milestones
 - November 14th
