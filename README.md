@@ -1,6 +1,12 @@
 # Movie-recommendation-lab
 UMass STAT535 Project - Movie recommendation
 
+## Milestones
+- November 14th
+ - Second dataset ready
+ - Look at scikit learn template
+ - Start master tree in github
+
 ## Scicit-learn template
 Our class should look like that and implement the same methods (fit, predict)
 
@@ -9,12 +15,6 @@ Our class should look like that and implement the same methods (fit, predict)
 
 ## Possible Second data sets
 - German credit data: https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data)
-
-## Milestones
-- November 14th
- - Second dataset ready
- - Look at scikit learn template
- - Start master tree in github
 
 
 ##### Patrick's comments 11/9
