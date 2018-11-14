@@ -7,6 +7,7 @@ UMass STAT535 Project - Movie recommendation
  - Look at scikit learn template
  - Start master tree in github
  
+ - After Thanksgiving
  - Preprocessing
    - Missing Values
    - Outliers
