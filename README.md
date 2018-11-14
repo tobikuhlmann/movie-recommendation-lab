@@ -8,17 +8,17 @@ UMass STAT535 Project - Movie recommendation
  - Start master tree in github
  
  - After Thanksgiving
- - Preprocessing
-   - Missing Values
-   - Outliers
-   - Standardized variable names
-   - Encode qualitative / categorical variables
-   - Data Reduction: Variable selection
- 
- - Classifiers to start with: 
-   - Decision Trees (Random Forest) (Scott)
-   - SVM (Sixtus)
-   - Gaussian Naive Bayes (Tobi)
+   - Preprocessing
+     - Missing Values
+     - Outliers
+     - Standardized variable names
+     - Encode qualitative / categorical variables
+     - Data Reduction: Variable selection
+
+   - Classifiers to start with: 
+     - Decision Trees (Random Forest) (Scott)
+     - SVM (Sixtus)
+     - Gaussian Naive Bayes (Tobi)
 
 
 
