@@ -1,0 +1,1466 @@
+movieID	name	year	genre1	genre2	genre3
+1	Toy Story 	1995	Animation	Children's	Comedy
+2	Jumanji 	1995	Adventure	Children's	Fantasy
+3	Grumpier Old Men 	1995	Comedy	Romance	
+4	Waiting to Exhale 	1995	Comedy	Drama	
+5	Father of the Bride Part II 	1995	Comedy		
+6	Heat 	1995	Action	Crime	Thriller
+7	Sabrina 	1995	Comedy	Romance	
+8	Tom and Huck 	1995	Adventure	Children's	
+9	Sudden Death 	1995	Action		
+12	Dracula: Dead and Loving It 	1995	Comedy	Horror	
+17	Sense and Sensibility 	1995	Drama	Romance	
+19	Ace Ventura: When Nature Calls 	1995	Comedy		
+21	Get Shorty 	1995	Action	Comedy	Drama
+24	Powder 	1995	Drama	Sci-Fi	
+25	Leaving Las Vegas 	1995	Drama	Romance	
+28	Persuasion 	1995	Romance		
+32	Twelve Monkeys 	1995	Drama	Sci-Fi	
+34	Babe 	1995	Children's	Comedy	Drama
+36	Dead Man Walking 	1995	Drama		
+39	Clueless 	1995	Comedy	Romance	
+43	Restoration 	1995	Drama		
+45	To Die For 	1995	Comedy	Drama	
+46	How to Make an American Quilt 	1995	Drama	Romance	
+47	Seven (Se7en) 	1995	Crime	Thriller	
+48	Pocahontas 	1995	Animation	Children's	Musical
+50	Usual Suspects, The 	1995	Crime	Thriller	
+52	Mighty Aphrodite 	1995	Comedy		
+58	Postino, Il (The Postman) 	1994	Drama	Romance	
+60	Indian in the Cupboard, The 	1995	Adventure	Children's	Fantasy
+65	Bio-Dome 	1996	Comedy		
+72	Kicking and Screaming 	1995	Comedy	Drama	
+82	Antonia's Line (Antonia) 	1995	Drama		
+85	Angels and Insects 	1995	Drama	Romance	
+86	White Squall 	1996	Adventure	Drama	
+88	Black Sheep 	1996	Comedy		
+92	Mary Reilly 	1996	Drama	Thriller	
+104	Happy Gilmore 	1996	Comedy		
+110	Braveheart 	1995	Action	Drama	War
+111	Taxi Driver 	1976	Drama	Thriller	
+141	Birdcage, The 	1996	Comedy		
+145	Bad Boys 	1995	Action		
+150	Apollo 13 	1995	Drama		
+153	Batman Forever 	1995	Action	Comedy	Crime
+160	Congo 	1995	Action	Mystery	Sci-Fi
+161	Crimson Tide 	1995	Drama	Thriller	War
+201	Three Wishes 	1995	Drama		
+202	Total Eclipse 	1995	Drama	Romance	
+203	To Wong Foo, Thanks for Everything! Julie Newmar 	1995	Comedy		
+204	Under Siege 2: Dark Territory 	1995	Action		
+206	Unzipped 	1995	Documentary		
+207	Walk in the Clouds, A 	1995	Drama	Romance	
+208	Waterworld 	1995	Action	Adventure	
+214	Before the Rain (Pred dozhdot) 	1994	Drama		
+215	Before Sunrise 	1995	Drama	Romance	
+216	Billy Madison 	1995	Comedy		
+217	Babysitter, The 	1995	Drama	Thriller	
+219	Cure, The 	1995	Drama		
+222	Circle of Friends 	1995	Drama	Romance	
+223	Clerks 	1994	Comedy		
+224	Don Juan DeMarco 	1995	Comedy	Drama	Romance
+230	Dolores Claiborne 	1994	Drama	Thriller	
+231	Dumb & Dumber 	1994	Comedy		
+232	Eat Drink Man Woman 	1994	Comedy	Drama	
+233	Exotica 	1994	Drama		
+235	Ed Wood 	1994	Comedy	Drama	
+236	French Kiss 	1995	Comedy	Romance	
+239	Goofy Movie, A 	1995	Animation	Comedy	Romance
+243	Gordy 	1995	Comedy		
+245	Glass Shield, The 	1994	Crime	Drama	
+246	Hoop Dreams 	1994	Documentary		
+247	Heavenly Creatures 	1994	Drama	Fantasy	Thriller
+248	Houseguest 	1994	Comedy		
+249	Immortal Beloved 	1994	Drama	Romance	
+250	Heavyweights 	1994	Children's	Comedy	
+252	I.Q. 	1994	Comedy	Romance	
+253	Interview with the Vampire 	1994	Drama	Horror	
+254	Jefferson in Paris 	1995	Drama		
+256	Junior 	1994	Comedy	Sci-Fi	
+258	Kid in King Arthur's Court, A 	1995	Adventure	Fantasy	Romance
+260	Star Wars: Episode IV - A New Hope 	1977	Action	Adventure	Sci-Fi
+261	Little Women 	1994	Drama		
+262	Little Princess, A 	1995	Children's	Drama	
+265	Like Water for Chocolate (Como agua para chocolate) 	1992	Drama	Romance	
+266	Legends of the Fall 	1994	Drama	Romance	War
+267	Major Payne 	1994	Comedy		
+268	Little Odessa 	1994	Drama		
+272	Madness of King George, The 	1994	Drama		
+277	Miracle on 34th Street 	1994	Drama		
+281	Nobody's Fool 	1994	Drama		
+282	Nell 	1994	Drama		
+288	Natural Born Killers 	1994	Action	Thriller	
+291	Poison Ivy II 	1995	Thriller		
+292	Outbreak 	1995	Action	Drama	Thriller
+293	Professional, The (a.k.a. Leon: The Professional) 	1994	Crime	Drama	Romance
+296	Pulp Fiction 	1994	Crime	Drama	
+299	Priest 	1994	Drama		
+304	Roommates 	1995	Comedy	Drama	
+307	Three Colors: Blue 	1993	Drama		
+314	Secret of Roan Inish, The 	1994	Drama		
+318	Shawshank Redemption, The 	1994	Drama		
+319	Shallow Grave 	1994	Thriller		
+333	Tommy Boy 	1995	Comedy		
+337	What's Eating Gilbert Grape 	1993	Drama		
+339	While You Were Sleeping 	1995	Comedy	Romance	
+342	Muriel's Wedding 	1994	Comedy	Romance	
+344	Ace Ventura: Pet Detective 	1994	Comedy		
+345	Adventures of Priscilla, Queen of the Desert, The 	1994	Comedy	Drama	
+348	Bullets Over Broadway 	1994	Comedy		
+349	Clear and Present Danger 	1994	Action	Adventure	Thriller
+351	Corrina, Corrina 	1994	Comedy	Drama	Romance
+353	Crow, The 	1994	Action	Romance	Thriller
+356	Forrest Gump 	1994	Comedy	Romance	War
+357	Four Weddings and a Funeral 	1994	Comedy	Romance	
+364	Lion King, The 	1994	Animation	Children's	Musical
+366	Wes Craven's New Nightmare 	1994	Horror		
+368	Maverick 	1994	Action	Comedy	Western
+370	Naked Gun 33 1/3: The Final Insult 	1994	Comedy		
+372	Reality Bites 	1994	Comedy	Drama	
+373	Red Rock West 	1992	Thriller		
+376	River Wild, The 	1994	Action	Thriller	
+377	Speed 	1994	Action	Romance	Thriller
+380	True Lies 	1994	Action	Adventure	Comedy
+383	Wyatt Earp 	1994	Western		
+405	Highlander III: The Sorcerer 	1994	Action	Sci-Fi	
+410	Addams Family Values 	1993	Comedy		
+412	Age of Innocence, The 	1993	Drama		
+413	Airheads 	1994	Comedy		
+414	Air Up There, The 	1994	Comedy		
+419	Beverly Hillbillies, The 	1993	Comedy		
+420	Beverly Hills Cop III 	1994	Action	Comedy	
+423	Blown Away 	1994	Action	Thriller	
+426	Body Snatchers 	1993	Horror	Sci-Fi	Thriller
+428	Bronx Tale, A 	1993	Drama		
+429	Cabin Boy 	1994	Comedy		
+432	City Slickers II: The Legend of Curly's Gold 	1994	Comedy	Western	
+434	Cliffhanger 	1993	Action	Adventure	Crime
+436	Color of Night 	1994	Drama	Thriller	
+440	Dave 	1993	Comedy	Romance	
+441	Dazed and Confused 	1993	Comedy		
+446	Farewell My Concubine 	1993	Drama	Romance	
+447	Favor, The 	1994	Comedy	Romance	
+449	Fear of a Black Hat 	1993	Comedy		
+454	Firm, The 	1993	Drama	Thriller	
+457	Fugitive, The 	1993	Action	Thriller	
+459	Getaway, The 	1994	Action		
+466	Hot Shots! Part Deux 	1993	Action	Comedy	War
+471	Hudsucker Proxy, The 	1994	Comedy	Romance	
+472	I'll Do Anything 	1994	Comedy	Drama	
+474	In the Line of Fire 	1993	Action	Thriller	
+475	In the Name of the Father 	1993	Drama		
+480	Jurassic Park 	1993	Action	Adventure	Sci-Fi
+483	King of the Hill 	1993	Drama		
+484	Lassie 	1994	Adventure	Children's	
+485	Last Action Hero 	1993	Action	Comedy	
+486	Life with Mikey 	1993	Comedy		
+493	Menace II Society 	1993	Action	Crime	Drama
+515	Remains of the Day, The 	1993	Drama		
+522	Romper Stomper 	1992	Action	Drama	
+524	Rudy 	1993	Drama		
+527	Schindler's List 	1993	Drama	War	
+531	Secret Garden, The 	1993	Children's	Drama	
+534	Shadowlands 	1993	Drama	Romance	
+535	Short Cuts 	1993	Drama		
+538	Six Degrees of Separation 	1993	Drama		
+539	Sleepless in Seattle 	1993	Comedy	Romance	
+551	Nightmare Before Christmas, The 	1993	Children's	Comedy	Musical
+570	Slingshot, The (Kadisbellan ) 	1993	Comedy	Drama	
+571	Wedding Gift, The 	1994	Drama		
+573	Ciao, Professore! (Io speriamo che me la cavo ) 	1993	Drama		
+574	Spanking the Monkey 	1994	Comedy	Drama	
+575	Little Rascals, The 	1994	Children's	Comedy	
+577	Andre 	1994	Adventure	Children's	
+580	Princess Caraboo 	1994	Drama		
+581	Celluloid Closet, The 	1995	Documentary		
+583	Dear Diary (Caro Diario) 	1994	Comedy	Drama	
+585	Brady Bunch Movie, The 	1995	Comedy		
+586	Home Alone 	1990	Children's	Comedy	
+587	Ghost 	1990	Comedy	Romance	Thriller
+588	Aladdin 	1992	Children's	Comedy	Musical
+589	Terminator 2: Judgment Day 	1991	Action	Sci-Fi	Thriller
+590	Dances with Wolves 	1990	Adventure	Drama	Western
+592	Batman 	1989	Adventure	Crime	Drama
+593	Silence of the Lambs, The 	1991	Drama	Thriller	
+594	Snow White and the Seven Dwarfs 	1937	Animation	Children's	Musical
+595	Beauty and the Beast 	1991	Animation	Children's	Musical
+596	Pinocchio 	1940	Animation	Children's	
+597	Pretty Woman 	1990	Comedy	Romance	
+599	Wild Bunch, The 	1969	Western		
+605	One Fine Day 	1996	Drama	Romance	
+606	Candyman: Farewell to the Flesh 	1995	Horror		
+608	Fargo 	1996	Crime	Drama	Thriller
+610	Heavy Metal 	1981	Adventure	Animation	Horror
+611	Hellraiser: Bloodline 	1996	Action	Horror	Sci-Fi
+627	Last Supper, The 	1995	Drama	Thriller	
+628	Primal Fear 	1996	Drama	Thriller	
+631	All Dogs Go to Heaven 2 	1996	Animation	Children's	Musical
+639	Girl 6 	1996	Comedy		
+647	Courage Under Fire 	1996	Drama	War	
+648	Mission: Impossible 	1996	Action	Adventure	Mystery
+653	Dragonheart 	1996	Action	Adventure	Fantasy
+661	James and the Giant Peach 	1996	Animation	Children's	Musical
+663	Kids in the Hall: Brain Candy 	1996	Comedy		
+664	Faithful 	1996	Comedy		
+671	Mystery Science Theater 3000: The Movie 	1996	Comedy	Sci-Fi	
+673	Space Jam 	1996	Adventure	Children's	Fantasy
+674	Barbarella 	1968	Adventure	Sci-Fi	
+678	Some Folks Call It a Sling Blade 	1993	Drama	Thriller	
+685	It's My Party 	1995	Drama		
+692	Solo 	1996	Action	Sci-Fi	Thriller
+695	True Crime 	1995	Mystery	Thriller	
+700	Angus 	1995	Comedy		
+707	Mulholland Falls 	1996	Crime	Film-Noir	Thriller
+710	Celtic Pride 	1996	Comedy		
+715	Horseman on the Roof, The (Hussard sur le toit, Le) 	1995	Drama		
+716	Switchblade Sisters 	1975	Crime		
+717	Mouth to Mouth (Boca a boca) 	1995	Comedy		
+718	Visitors, The (Les Visiteurs) 	1993	Comedy	Sci-Fi	
+719	Multiplicity 	1996	Comedy		
+720	Wallace & Gromit: The Best of Aardman Animation 	1996	Animation		
+724	Craft, The 	1996	Drama	Horror	
+725	Great White Hype, The 	1996	Comedy		
+726	Last Dance 	1996	Drama		
+728	Cold Comfort Farm 	1995	Comedy		
+733	Rock, The 	1996	Action	Adventure	Thriller
+735	Cemetery Man (Dellamorte Dellamore) 	1994	Comedy	Horror	
+736	Twister 	1996	Action	Adventure	Romance
+737	Barb Wire 	1996	Action	Sci-Fi	
+741	Ghost in the Shell (Kokaku kidotai) 	1995	Animation	Sci-Fi	
+742	Thinner 	1996	Horror	Thriller	
+743	Spy Hard 	1996	Comedy		
+745	Close Shave, A 	1995	Animation	Comedy	Thriller
+746	Force of Evil 	1948	Film-Noir		
+747	Stupids, The 	1996	Comedy		
+748	Arrival, The 	1996	Action	Sci-Fi	Thriller
+750	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb 	1963	Sci-Fi	War	
+753	Month by the Lake, A 	1995	Comedy	Drama	
+759	Maya Lin: A Strong Clear Vision 	1994	Documentary		
+761	Phantom, The 	1996	Adventure		
+762	Striptease 	1996	Comedy	Crime	
+764	Heavy 	1995	Drama	Romance	
+765	Jack 	1996	Comedy	Drama	
+766	I Shot Andy Warhol 	1996	Drama		
+767	Grass Harp, The 	1995	Drama		
+778	Trainspotting 	1996	Drama		
+779	'Til There Was You 	1997	Drama	Romance	
+780	Independence Day (ID4) 	1996	Action	Sci-Fi	War
+781	Stealing Beauty 	1996	Drama		
+782	Fan, The 	1996	Thriller		
+783	Hunchback of Notre Dame, The 	1996	Animation	Children's	Musical
+784	Cable Guy, The 	1996	Comedy		
+785	Kingpin 	1996	Comedy		
+786	Eraser 	1996	Action	Thriller	
+788	Nutty Professor, The 	1996	Comedy	Romance	Sci-Fi
+798	Daylight 	1996	Action	Adventure	Thriller
+799	Frighteners, The 	1996	Comedy	Horror	
+800	Lone Star 	1996	Drama	Mystery	
+801	Harriet the Spy 	1996	Children's	Comedy	
+802	Phenomenon 	1996	Drama	Romance	
+803	Walking and Talking 	1996	Romance		
+804	She's the One 	1996	Comedy	Romance	
+805	Time to Kill, A 	1996	Drama		
+806	American Buffalo 	1996	Drama		
+810	Kazaam 	1996	Children's	Comedy	Fantasy
+829	Joe's Apartment 	1996	Comedy	Musical	
+830	First Wives Club, The 	1996	Comedy		
+831	Stonewall 	1995	Drama		
+832	Ransom 	1996	Drama	Thriller	
+836	Chain Reaction 	1996	Action	Adventure	Thriller
+837	Matilda 	1996	Children's	Comedy	
+838	Emma 	1996	Comedy	Drama	Romance
+858	Godfather, The 	1972	Action	Crime	Drama
+866	Bound 	1996	Crime	Drama	Romance
+879	Relic, The 	1997	Horror		
+891	Halloween: The Curse of Michael Myers 	1995	Horror	Thriller	
+900	American in Paris, An 	1951	Musical	Romance	
+901	Funny Face 	1957	Comedy	Musical	
+902	Breakfast at Tiffany's 	1961	Drama	Romance	
+903	Vertigo 	1958	Mystery	Thriller	
+904	Rear Window 	1954	Mystery	Thriller	
+905	It Happened One Night 	1934	Comedy		
+906	Gaslight 	1944	Mystery	Thriller	
+907	Gay Divorcee, The 	1934	Comedy	Musical	Romance
+908	North by Northwest 	1959	Drama	Thriller	
+909	Apartment, The 	1960	Comedy	Drama	
+910	Some Like It Hot 	1959	Comedy	Crime	
+911	Charade 	1963	Comedy	Romance	Thriller
+912	Casablanca 	1942	Drama	Romance	War
+913	Maltese Falcon, The 	1941	Film-Noir	Mystery	
+914	My Fair Lady 	1964	Musical	Romance	
+915	Sabrina 	1954	Comedy	Romance	
+916	Roman Holiday 	1953	Comedy	Romance	
+917	Little Princess, The 	1939	Children's	Drama	
+918	Meet Me in St. Louis 	1944	Musical		
+919	Wizard of Oz, The 	1939	Adventure	Children's	Drama
+920	Gone with the Wind 	1939	Drama	Romance	War
+921	My Favorite Year 	1982	Comedy		
+922	Sunset Blvd. (a.k.a. Sunset Boulevard) 	1950	Film-Noir		
+923	Citizen Kane 	1941	Drama		
+924	2001: A Space Odyssey 	1968	Drama	Sci-Fi	Thriller
+925	Golden Earrings 	1947	Adventure	Romance	
+926	All About Eve 	1950	Drama		
+927	Women, The 	1939	Comedy		
+928	Rebecca 	1940	Romance	Thriller	
+929	Foreign Correspondent 	1940	Thriller		
+930	Notorious 	1946	Film-Noir	Romance	Thriller
+931	Spellbound 	1945	Mystery	Romance	Thriller
+932	Affair to Remember, An 	1957	Romance		
+933	To Catch a Thief 	1955	Comedy	Romance	Thriller
+934	Father of the Bride 	1950	Comedy		
+935	Band Wagon, The 	1953	Comedy	Musical	
+937	Love in the Afternoon 	1957	Comedy	Romance	
+938	Gigi 	1958	Musical		
+940	Adventures of Robin Hood, The 	1938	Action	Adventure	
+941	Mark of Zorro, The 	1940	Adventure		
+942	Laura 	1944	Crime	Film-Noir	Mystery
+943	Ghost and Mrs. Muir, The 	1947	Drama	Romance	
+945	Top Hat 	1935	Comedy	Musical	Romance
+947	My Man Godfrey 	1936	Comedy		
+949	East of Eden 	1955	Drama		
+950	Thin Man, The 	1934	Mystery		
+951	His Girl Friday 	1940	Comedy		
+952	Around the World in 80 Days 	1956	Adventure	Comedy	
+953	It's a Wonderful Life 	1946	Drama		
+954	Mr. Smith Goes to Washington 	1939	Drama		
+955	Bringing Up Baby 	1938	Comedy		
+957	Scarlet Letter, The 	1926	Drama		
+965	39 Steps, The 	1935	Thriller		
+967	Outlaw, The 	1943	Western		
+968	Night of the Living Dead 	1968	Horror	Sci-Fi	
+969	African Queen, The 	1951	Action	Adventure	Romance
+971	Cat on a Hot Tin Roof 	1958	Drama		
+973	Meet John Doe 	1941	Drama		
+981	Dangerous Ground 	1997	Drama		
+985	Small Wonders 	1996	Documentary		
+986	Fly Away Home 	1996	Adventure	Children's	
+988	Grace of My Heart 	1996	Comedy	Drama	
+991	Michael Collins 	1996	Drama	War	
+994	Big Night 	1996	Drama		
+996	Last Man Standing 	1996	Action	Drama	Western
+999	2 Days in the Valley 	1996	Crime		
+1015	Homeward Bound: The Incredible Journey 	1993	Adventure	Children's	
+1019	20,000 Leagues Under the Sea 	1954	Adventure	Children's	Sci-Fi
+1032	Alice in Wonderland 	1951	Animation	Children's	Musical
+1035	Sound of Music, The 	1965	Musical		
+1036	Die Hard 	1988	Action	Thriller	
+1050	Looking for Richard 	1996	Documentary	Drama	
+1064	Aladdin and the King of Thieves 	1996	Animation	Children's	Comedy
+1073	Willy Wonka and the Chocolate Factory 	1971	Children's	Comedy	Fantasy
+1080	Monty Python's Life of Brian 	1979	Comedy		
+1081	Victor/Victoria 	1982	Comedy	Musical	
+1089	Reservoir Dogs 	1992	Crime	Thriller	
+1090	Platoon 	1986	Drama	War	
+1092	Basic Instinct 	1992	Mystery	Thriller	
+1094	Crying Game, The 	1992	Drama	Romance	War
+1097	E.T. the Extra-Terrestrial 	1982	Drama	Fantasy	Sci-Fi
+1099	Christmas Carol, A 	1938	Drama		
+1101	Top Gun 	1986	Action	Romance	
+1104	Streetcar Named Desire, A 	1951	Drama		
+1105	Children of the Corn IV: The Gathering 	1996	Horror		
+1107	Loser 	1991	Comedy		
+1111	Microcosmos (Microcosmos: Le peuple de l'herbe) 	1996	Documentary		
+1120	People vs. Larry Flynt, The 	1996	Drama		
+1126	Drop Dead Fred 	1991	Comedy	Fantasy	
+1127	Abyss, The 	1989	Action	Sci-Fi	Thriller
+1129	Escape from New York 	1981	Action	Adventure	Thriller
+1131	Jean de Florette 	1986	Drama		
+1132	Manon of the Spring (Manon des sources) 	1986	Drama		
+1135	Private Benjamin 	1980	Comedy		
+1136	Monty Python and the Holy Grail 	1974	Comedy		
+1147	When We Were Kings 	1996	Documentary		
+1148	Wrong Trousers, The 	1993	Animation	Comedy	
+1171	Bob Roberts 	1992	Comedy		
+1172	Cinema Paradiso 	1988	Comedy	Drama	Romance
+1175	Delicatessen 	1991	Comedy	Sci-Fi	
+1177	Enchanted April 	1991	Drama		
+1178	Paths of Glory 	1957	Drama	War	
+1179	Grifters, The 	1990	Crime	Drama	Film-Noir
+1183	English Patient, The 	1996	Drama	Romance	War
+1184	Mediterraneo 	1991	Comedy	War	
+1185	My Left Foot 	1989	Drama		
+1186	Sex, Lies, and Videotape 	1989	Drama		
+1187	Passion Fish 	1992	Drama		
+1188	Strictly Ballroom 	1992	Comedy	Romance	
+1189	Thin Blue Line, The 	1988	Documentary		
+1191	Madonna: Truth or Dare 	1991	Documentary		
+1192	Paris Is Burning 	1990	Documentary		
+1193	One Flew Over the Cuckoo's Nest 	1975	Drama		
+1196	Star Wars: Episode V - The Empire Strikes Back 	1980	Action	Adventure	Drama
+1197	Princess Bride, The 	1987	Action	Comedy	Romance
+1198	Raiders of the Lost Ark 	1981	Action	Adventure	
+1199	Brazil 	1985	Sci-Fi		
+1200	Aliens 	1986	Action	Thriller	War
+1207	To Kill a Mockingbird 	1962	Drama		
+1210	Star Wars: Episode VI - Return of the Jedi 	1983	Adventure	Romance	Sci-Fi
+1211	Wings of Desire (Der Himmel uber Berlin) 	1987	Comedy	Drama	Romance
+1213	GoodFellas 	1990	Crime	Drama	
+1214	Alien 	1979	Horror	Sci-Fi	Thriller
+1219	Psycho 	1960	Horror	Thriller	
+1221	Godfather: Part II, The 	1974	Action	Crime	Drama
+1222	Full Metal Jacket 	1987	Action	Drama	War
+1223	Grand Day Out, A 	1992	Animation	Comedy	
+1225	Amadeus 	1984	Drama		
+1228	Raging Bull 	1980	Drama		
+1230	Annie Hall 	1977	Comedy	Romance	
+1233	Boat, The (Das Boot) 	1981	Action	Drama	War
+1234	Sting, The 	1973	Comedy	Crime	
+1240	Terminator, The 	1984	Action	Sci-Fi	Thriller
+1244	Manhattan 	1979	Comedy	Drama	Romance
+1248	Touch of Evil 	1958	Crime	Film-Noir	Thriller
+1249	Nikita (La Femme Nikita) 	1990	Thriller		
+1250	Bridge on the River Kwai, The 	1957	Drama	War	
+1251	8 1/2 	1963	Drama		
+1252	Chinatown 	1974	Film-Noir	Mystery	Thriller
+1253	Day the Earth Stood Still, The 	1951	Drama	Sci-Fi	
+1254	Treasure of the Sierra Madre, The 	1948	Adventure		
+1255	Bad Taste 	1987	Comedy	Horror	
+1256	Duck Soup 	1933	Comedy	War	
+1257	Better Off Dead... 	1985	Comedy		
+1258	Shining, The 	1980	Horror		
+1259	Stand by Me 	1986	Adventure	Comedy	Drama
+1260	M 	1931	Crime	Film-Noir	Thriller
+1261	Evil Dead II (Dead By Dawn) 	1987	Adventure	Comedy	Horror
+1262	Great Escape, The 	1963	Adventure	War	
+1263	Deer Hunter, The 	1978	Drama	War	
+1264	Diva 	1981	Mystery	Romance	Thriller
+1265	Groundhog Day 	1993	Comedy	Romance	
+1266	Unforgiven 	1992	Western		
+1267	Manchurian Candidate, The 	1962	Film-Noir	Thriller	
+1268	Pump Up the Volume 	1990	Drama		
+1269	Arsenic and Old Lace 	1944	Comedy	Mystery	Thriller
+1270	Back to the Future 	1985	Comedy	Sci-Fi	
+1271	Fried Green Tomatoes 	1991	Drama		
+1272	Patton 	1970	Drama	War	
+1273	Down by Law 	1986	Comedy	Drama	
+1274	Akira 	1988	Adventure	Animation	Sci-Fi
+1275	Highlander 	1986	Action	Adventure	
+1276	Cool Hand Luke 	1967	Comedy	Drama	
+1277	Cyrano de Bergerac 	1990	Action	Drama	Romance
+1278	Young Frankenstein 	1974	Comedy	Horror	
+1279	Night on Earth 	1991	Comedy	Drama	
+1280	Raise the Red Lantern 	1991	Drama		
+1281	Great Dictator, The 	1940	Comedy		
+1282	Fantasia 	1940	Animation	Children's	Musical
+1283	High Noon 	1952	Western		
+1284	Big Sleep, The 	1946	Film-Noir	Mystery	
+1285	Heathers 	1989	Comedy		
+1286	Somewhere in Time 	1980	Drama	Romance	
+1287	Ben-Hur 	1959	Action	Adventure	Drama
+1288	This Is Spinal Tap 	1984	Comedy	Drama	Musical
+1289	Koyaanisqatsi 	1983	Documentary	War	
+1290	Some Kind of Wonderful 	1987	Drama	Romance	
+1291	Indiana Jones and the Last Crusade 	1989	Action	Adventure	
+1292	Being There 	1979	Comedy		
+1293	Gandhi 	1982	Drama		
+1294	M*A*S*H 	1970	Comedy	War	
+1295	Unbearable Lightness of Being, The 	1988	Drama		
+1296	Room with a View, A 	1986	Drama	Romance	
+1297	Real Genius 	1985	Comedy		
+1298	Pink Floyd - The Wall 	1982	Drama	Musical	War
+1299	Killing Fields, The 	1984	Drama	War	
+1302	Field of Dreams 	1989	Drama		
+1304	Butch Cassidy and the Sundance Kid 	1969	Action	Comedy	Western
+1306	Until the End of the World (Bis ans Ende der Welt) 	1991	Drama	Sci-Fi	
+1307	When Harry Met Sally... 	1989	Comedy	Romance	
+1320	Alien3 	1992	Action	Sci-Fi	Thriller
+1321	American Werewolf in London, An 	1981	Horror		
+1327	Amityville Horror, The 	1979	Horror		
+1332	Believers, The 	1987	Horror	Thriller	
+1333	Birds, The 	1963	Horror		
+1336	Body Parts 	1991	Horror		
+1339	Bram Stoker's Dracula 	1992	Horror	Romance	
+1342	Candyman 	1992	Horror		
+1343	Cape Fear 	1991	Thriller		
+1344	Cape Fear 	1962	Film-Noir	Thriller	
+1345	Carrie 	1976	Horror		
+1347	Nightmare on Elm Street, A 	1984	Horror		
+1350	Omen, The 	1976	Horror		
+1352	Albino Alligator 	1996	Crime	Thriller	
+1354	Breaking the Waves 	1996	Drama		
+1355	Nightwatch 	1997	Horror	Thriller	
+1356	Star Trek: First Contact 	1996	Action	Adventure	Sci-Fi
+1357	Shine 	1996	Drama	Romance	
+1358	Sling Blade 	1996	Drama	Thriller	
+1359	Jingle All the Way 	1996	Adventure	Children's	Comedy
+1362	Garden of Finzi-Contini, The (Giardino dei Finzi-Contini, Il) 	1970	Drama		
+1363	Preacher's Wife, The 	1996	Drama		
+1367	101 Dalmatians 	1996	Children's	Comedy	
+1370	Die Hard 2 	1990	Action	Thriller	
+1371	Star Trek: The Motion Picture 	1979	Action	Adventure	Sci-Fi
+1372	Star Trek VI: The Undiscovered Country 	1991	Action	Adventure	Sci-Fi
+1373	Star Trek V: The Final Frontier 	1989	Action	Adventure	Sci-Fi
+1374	Star Trek: The Wrath of Khan 	1982	Action	Adventure	Sci-Fi
+1375	Star Trek III: The Search for Spock 	1984	Action	Adventure	Sci-Fi
+1376	Star Trek IV: The Voyage Home 	1986	Action	Adventure	Sci-Fi
+1377	Batman Returns 	1992	Action	Adventure	Crime
+1380	Grease 	1978	Comedy	Musical	Romance
+1387	Jaws 	1975	Action	Horror	
+1391	Mars Attacks! 	1996	Action	Comedy	Sci-Fi
+1392	Citizen Ruth 	1996	Comedy	Drama	
+1393	Jerry Maguire 	1996	Drama	Romance	
+1394	Raising Arizona 	1987	Comedy		
+1396	Sneakers 	1992	Crime	Drama	Sci-Fi
+1401	Ghosts of Mississippi 	1996	Drama		
+1404	Night Falls on Manhattan 	1997	Crime	Drama	
+1405	Beavis and Butt-head Do America 	1996	Animation	Comedy	
+1406	Ceremonie, La 	1995	Drama		
+1407	Scream 	1996	Horror	Thriller	
+1408	Last of the Mohicans, The 	1992	Action	Romance	War
+1409	Michael 	1996	Comedy	Romance	
+1410	Evening Star, The 	1996	Comedy	Drama	
+1411	Hamlet 	1996	Drama		
+1412	Some Mother's Son 	1996	Drama		
+1413	Whole Wide World, The 	1996	Drama		
+1414	Mother 	1996	Comedy		
+1415	Thieves (Voleurs, Les) 	1996	Crime	Drama	Romance
+1416	Evita 	1996	Drama	Musical	
+1417	Portrait of a Lady, The 	1996	Drama		
+1419	Walkabout 	1971	Drama		
+1421	Grateful Dead 	1995	Documentary		
+1422	Murder at 1600 	1997	Mystery	Thriller	
+1425	Fierce Creatures 	1997	Comedy		
+1426	Zeus and Roxanne 	1997	Children's		
+1427	Turbulence 	1997	Thriller		
+1428	Angel Baby 	1995	Drama		
+1429	Jackie Chan's First Strike 	1996	Action		
+1431	Beverly Hills Ninja 	1997	Action	Comedy	
+1432	Metro 	1997	Action		
+1436	Falling in Love Again 	1980	Comedy		
+1438	Dante's Peak 	1997	Action	Thriller	
+1439	Meet Wally Sparks 	1997	Comedy		
+1440	Amos & Andrew 	1993	Comedy		
+1441	Benny & Joon 	1993	Comedy	Romance	
+1442	Prefontaine 	1997	Drama		
+1445	McHale's Navy 	1997	Comedy	War	
+1446	Kolya 	1996	Comedy		
+1447	Gridlock'd 	1997	Crime		
+1449	Waiting for Guffman 	1996	Comedy		
+1453	Beautician and the Beast, The 	1997	Comedy	Romance	
+1454	SubUrbia 	1997	Comedy		
+1456	Pest, The 	1997	Comedy		
+1457	Fools Rush In 	1997	Comedy	Romance	
+1459	Absolute Power 	1997	Mystery	Thriller	
+1460	That Darn Cat! 	1997	Children's	Comedy	Mystery
+1461	Vegas Vacation 	1997	Comedy		
+1463	That Old Feeling 	1997	Comedy	Romance	
+1465	Rosewood 	1997	Drama		
+1466	Donnie Brasco 	1997	Crime	Drama	
+1468	Booty Call 	1997	Comedy	Romance	
+1472	City of Industry 	1997	Crime	Thriller	
+1474	Jungle2Jungle (a.k.a. Jungle 2 Jungle) 	1997	Children's	Comedy	
+1476	Private Parts 	1997	Comedy	Drama	
+1479	Saint, The 	1997	Action	Romance	Thriller
+1480	Smilla's Sense of Snow 	1997	Action	Drama	Thriller
+1483	Crash 	1996	Drama	Thriller	
+1484	Daytrippers, The 	1996	Mystery		
+1485	Liar Liar 	1997	Comedy		
+1487	Selena 	1997	Drama	Musical	
+1488	Devil's Own, The 	1997	Action	Drama	War
+1490	B*A*P*S 	1997	Comedy		
+1494	Sixth Man, The 	1997	Comedy		
+1495	Turbo: A Power Rangers Movie 	1997	Action	Adventure	Children's
+1496	Anna Karenina 	1997	Drama	Romance	
+1498	Inventing the Abbotts 	1997	Drama	Romance	
+1499	Anaconda 	1997	Action	Adventure	Thriller
+1500	Grosse Pointe Blank 	1997	Comedy	Crime	
+1503	8 Heads in a Duffel Bag 	1997	Comedy		
+1513	Romy and Michele's High School Reunion 	1997	Comedy		
+1515	Volcano 	1997	Drama	Thriller	
+1517	Austin Powers: International Man of Mystery 	1997	Comedy		
+1518	Breakdown 	1997	Action	Thriller	
+1526	Fathers' Day 	1997	Comedy		
+1527	Fifth Element, The 	1997	Action	Sci-Fi	
+1537	Shall We Dance? (Shall We Dansu?) 	1996	Comedy		
+1541	Addicted to Love 	1997	Comedy	Romance	
+1542	Brassed Off 	1996	Comedy	Drama	Romance
+1544	Lost World: Jurassic Park, The 	1997	Action	Adventure	Thriller
+1552	Con Air 	1997	Action	Adventure	Thriller
+1562	Batman & Robin 	1997	Action	Adventure	Crime
+1566	Hercules 	1997	Adventure	Children's	Musical
+1569	My Best Friend's Wedding 	1997	Comedy	Romance	
+1573	Face/Off 	1997	Action	Sci-Fi	Thriller
+1580	Men in Black 	1997	Adventure	Comedy	Sci-Fi
+1582	Wild America 	1997	Adventure	Children's	
+1584	Contact 	1997	Drama	Sci-Fi	
+1589	Cop Land 	1997	Crime	Drama	Mystery
+1592	Air Bud 	1997	Children's	Comedy	
+1594	In the Company of Men 	1997	Drama		
+1600	She's So Lovely 	1997	Drama	Romance	
+1601	Hoodlum 	1997	Crime	Drama	Film-Noir
+1602	Leave It to Beaver 	1997	Comedy		
+1603	Mimic 	1997	Sci-Fi	Thriller	
+1604	Money Talks 	1997	Action	Comedy	
+1606	Kull the Conqueror 	1997	Action	Adventure	
+1608	Air Force One 	1997	Action	Thriller	
+1609	187 	1997	Drama		
+1610	Hunt for Red October, The 	1990	Action	Thriller	
+1611	My Own Private Idaho 	1991	Drama		
+1612	Kiss Me, Guido 	1997	Comedy		
+1613	Star Maps 	1997	Drama		
+1614	In & Out 	1997	Comedy		
+1615	Edge, The 	1997	Adventure	Thriller	
+1616	Peacemaker, The 	1997	Action	Thriller	War
+1617	L.A. Confidential 	1997	Crime	Mystery	Thriller
+1619	Seven Years in Tibet 	1997	Drama	War	
+1620	Kiss the Girls 	1997	Crime	Drama	Thriller
+1623	Wishmaster 	1997	Horror		
+1625	Game, The 	1997	Mystery	Thriller	
+1626	Fire Down Below 	1997	Action	Drama	Thriller
+1627	U Turn 	1997	Action	Crime	Mystery
+1629	MatchMaker, The 	1997	Comedy	Romance	
+1633	Ulee's Gold 	1997	Drama		
+1635	Ice Storm, The 	1997	Drama		
+1639	Chasing Amy 	1997	Drama	Romance	
+1640	How to Be a Player 	1997	Comedy		
+1641	Full Monty, The 	1997	Comedy		
+1642	Indian Summer (a.k.a. Alive & Kicking) 	1996	Comedy	Drama	
+1643	Mrs. Brown (Her Majesty, Mrs. Brown) 	1997	Drama	Romance	
+1644	I Know What You Did Last Summer 	1997	Horror	Mystery	Thriller
+1645	Devil's Advocate, The 	1997	Crime	Mystery	Thriller
+1646	Rocket Man 	1997	Comedy		
+1648	House of Yes, The 	1997	Comedy	Drama	Thriller
+1649	Fast, Cheap & Out of Control 	1997	Documentary		
+1653	Gattaca 	1997	Drama	Sci-Fi	Thriller
+1663	Stripes 	1981	Comedy		
+1665	Bean 	1997	Comedy		
+1673	Boogie Nights 	1997	Drama		
+1674	Witness 	1985	Drama	Romance	Thriller
+1676	Starship Troopers 	1997	Adventure	Sci-Fi	War
+1680	Sliding Doors 	1998	Drama	Romance	
+1682	Truman Show, The 	1998	Drama		
+1686	Red Corner 	1997	Crime	Thriller	
+1687	Jackal, The 	1997	Action	Thriller	
+1688	Anastasia 	1997	Animation	Children's	Musical
+1690	Alien: Resurrection 	1997	Action	Horror	Sci-Fi
+1692	Alien Escape 	1995	Horror	Sci-Fi	
+1693	Amistad 	1997	Drama		
+1694	Apostle, The 	1997	Drama		
+1699	Butcher Boy, The 	1998	Drama		
+1704	Good Will Hunting 	1997	Drama		
+1707	Home Alone 3 	1997	Children's	Comedy	
+1721	Titanic 	1997	Drama	Romance	
+1727	Horse Whisperer, The 	1998	Drama		
+1729	Jackie Brown 	1997	Crime	Drama	
+1732	Big Lebowski, The 	1998	Comedy	Crime	Thriller
+1746	Senseless 	1998	Comedy		
+1748	Dark City 	1998	Film-Noir	Sci-Fi	Thriller
+1753	Half Baked 	1998	Comedy		
+1756	Prophecy II, The 	1998	Horror		
+1762	Deep Rising 	1998	Action	Horror	Sci-Fi
+1777	Wedding Singer, The 	1998	Comedy	Romance	
+1784	As Good As It Gets 	1997	Comedy	Drama	
+1793	Welcome to Woop-Woop 	1997	Comedy		
+1794	Love and Death on Long Island 	1997	Comedy	Drama	
+1801	Man in the Iron Mask, The 	1998	Action	Drama	Romance
+1804	Newton Boys, The 	1998	Crime	Drama	
+1805	Wild Things 	1998	Drama	Mystery	Thriller
+1806	Paulie 	1998	Adventure	Children's	Comedy
+1810	Primary Colors 	1998	Drama		
+1824	Homegrown 	1998	Comedy	Thriller	
+1827	Big One, The 	1997	Comedy	Documentary	
+1831	Lost in Space 	1998	Action	Sci-Fi	Thriller
+1833	Mercury Rising 	1998	Action	Drama	Thriller
+1834	Spanish Prisoner, The 	1997	Drama	Thriller	
+1835	City of Angels 	1998	Romance		
+1839	My Giant 	1998	Comedy		
+1845	Zero Effect 	1998	Comedy	Thriller	
+1848	Borrowers, The 	1997	Children's	Comedy	Fantasy
+1850	I Love You, Don't Touch Me! 	1998	Drama	Romance	
+1853	Alan Smithee Film: Burn Hollywood Burn, An 	1997	Comedy		
+1855	Krippendorf's Tribe 	1998	Comedy		
+1861	Junk Mail 	1997	Comedy	Thriller	
+1862	Species II 	1998	Horror	Sci-Fi	
+1863	Major League: Back to the Minors 	1998	Comedy		
+1869	Black Dog 	1998	Action	Thriller	
+1870	Dancer, Texas Pop. 81 	1998	Comedy	Drama	
+1873	Miserables, Les 	1998	Drama		
+1875	Clockwatchers 	1997	Comedy		
+1876	Deep Impact 	1998	Drama	Sci-Fi	Thriller
+1882	Godzilla 	1998	Action	Sci-Fi	
+1883	Bulworth 	1998	Comedy		
+1884	Fear and Loathing in Las Vegas 	1998	Comedy	Drama	
+1885	Opposite of Sex, The 	1998	Comedy	Drama	
+1887	Almost Heroes 	1998	Adventure	Comedy	
+1889	Insomnia 	1997	Thriller		
+1891	Ugly, The 	1997	Horror	Thriller	
+1894	Six Days Seven Nights 	1998	Adventure	Comedy	Romance
+1895	Can't Hardly Wait 	1998	Comedy	Drama	Romance
+1897	High Art 	1998	Drama	Romance	
+1900	Children of Heaven, The (Bacheha-Ye Aseman) 	1997	Drama		
+1907	Mulan 	1998	Animation	Children's	
+1911	Doctor Dolittle 	1998	Comedy		
+1916	Buffalo 66 	1998	Action	Comedy	Drama
+1919	Madeline 	1998	Children's	Comedy	
+1923	There's Something About Mary 	1998	Comedy		
+1924	Plan 9 from Outer Space 	1958	Horror	Sci-Fi	
+1927	All Quiet on the Western Front 	1930	War		
+1931	Mutiny on the Bounty 	1935	Adventure		
+1947	West Side Story 	1961	Musical	Romance	
+1952	Midnight Cowboy 	1969	Drama		
+1953	French Connection, The 	1971	Crime	Drama	Thriller
+1959	Out of Africa 	1985	Drama	Romance	
+1961	Rain Man 	1988	Drama		
+1962	Driving Miss Daisy 	1989	Drama		
+1965	Repo Man 	1984	Comedy	Sci-Fi	
+1967	Labyrinth 	1986	Adventure	Children's	Fantasy
+1968	Breakfast Club, The 	1985	Comedy	Drama	
+1969	Nightmare on Elm Street Part 2: Freddy's Revenge, A 	1985	Horror		
+1970	Nightmare on Elm Street 3: Dream Warriors, A 	1987	Horror		
+1971	Nightmare on Elm Street 4: The Dream Master, A 	1988	Horror		
+1972	Nightmare on Elm Street 5: The Dream Child, A 	1989	Horror		
+1973	Freddy's Dead: The Final Nightmare 	1991	Horror		
+1976	Friday the 13th Part 3: 3D 	1982	Horror		
+1977	Friday the 13th: The Final Chapter 	1984	Horror		
+1986	Halloween 5: The Revenge of Michael Myers 	1989	Horror		
+1997	Exorcist, The 	1973	Horror		
+2005	Goonies, The 	1985	Adventure	Children's	Fantasy
+2011	Back to the Future Part II 	1989	Comedy	Sci-Fi	
+2012	Back to the Future Part III 	1990	Comedy	Sci-Fi	Western
+2013	Poseidon Adventure, The 	1972	Action	Adventure	
+2023	Godfather: Part III, The 	1990	Action	Crime	Drama
+2025	Lolita 	1997	Drama	Romance	
+2028	Saving Private Ryan 	1998	Action	Drama	War
+2050	Herbie Goes Bananas 	1980	Adventure	Children's	Comedy
+2051	Herbie Goes to Monte Carlo 	1977	Adventure	Children's	Comedy
+2052	Hocus Pocus 	1993	Children's	Comedy	
+2053	Honey, I Blew Up the Kid 	1992	Children's	Comedy	Sci-Fi
+2054	Honey, I Shrunk the Kids 	1989	Adventure	Comedy	Fantasy
+2055	Hot Lead and Cold Feet 	1978	Comedy	Western	
+2057	Incredible Journey, The 	1963	Adventure	Children's	
+2058	Negotiator, The 	1998	Action	Thriller	
+2059	Parent Trap, The 	1998	Children's	Drama	
+2060	BASEketball 	1998	Comedy		
+2061	Full Tilt Boogie 	1997	Documentary		
+2062	Governess, The 	1998	Drama	Romance	
+2063	Seventh Heaven (Le Septieme ciel) 	1997	Drama	Romance	
+2064	Roger & Me 	1989	Comedy	Documentary	
+2065	Purple Rose of Cairo, The 	1985	Comedy	Drama	Romance
+2066	Out of the Past 	1947	Film-Noir		
+2067	Doctor Zhivago 	1965	Drama	Romance	War
+2068	Fanny and Alexander 	1982	Drama		
+2069	Trip to Bountiful, The 	1985	Drama		
+2070	Tender Mercies 	1983	Drama		
+2071	And the Band Played On 	1993	Drama		
+2072	'burbs, The 	1989	Comedy		
+2073	Fandango 	1985	Comedy		
+2075	Mephisto 	1981	Drama	War	
+2076	Blue Velvet 	1986	Drama	Mystery	
+2077	Journey of Natty Gann, The 	1985	Adventure	Children's	
+2078	Jungle Book, The 	1967	Animation	Children's	Comedy
+2079	Kidnapped 	1960	Children's	Drama	
+2080	Lady and the Tramp 	1955	Children's	Comedy	Romance
+2081	Little Mermaid, The 	1989	Animation	Comedy	Musical
+2082	Mighty Ducks, The 	1992	Children's	Comedy	
+2083	Muppet Christmas Carol, The 	1992	Children's	Musical	
+2084	Newsies 	1992	Children's	Musical	
+2085	101 Dalmatians 	1961	Animation	Children's	
+2086	One Magic Christmas 	1985	Drama	Fantasy	
+2087	Peter Pan 	1953	Animation	Children's	Musical
+2088	Popeye 	1980	Adventure	Comedy	Musical
+2089	Rescuers Down Under, The 	1990	Animation	Children's	
+2090	Rescuers, The 	1977	Animation	Children's	
+2091	Return from Witch Mountain 	1978	Children's	Sci-Fi	
+2092	Return of Jafar, The 	1993	Animation	Children's	Musical
+2093	Return to Oz 	1985	Children's	Fantasy	Sci-Fi
+2094	Rocketeer, The 	1991	Action	Adventure	Sci-Fi
+2095	Shaggy D.A., The 	1976	Children's	Comedy	
+2096	Sleeping Beauty 	1959	Animation	Children's	Musical
+2097	Something Wicked This Way Comes 	1983	Children's	Horror	
+2098	Son of Flubber 	1963	Children's	Comedy	
+2099	Song of the South 	1946	Adventure	Animation	Children's
+2100	Splash 	1984	Comedy	Fantasy	Romance
+2105	Tron 	1982	Action	Adventure	Fantasy
+2107	Halloween: H20 	1998	Horror	Thriller	
+2108	L.A. Story 	1991	Comedy	Romance	
+2115	Indiana Jones and the Temple of Doom 	1984	Action	Adventure	
+2116	Lord of the Rings, The 	1978	Adventure	Children's	Sci-Fi
+2120	Needful Things 	1993	Drama	Horror	
+2121	Cujo 	1983	Horror	Thriller	
+2122	Children of the Corn 	1984	Horror	Thriller	
+2123	All Dogs Go to Heaven 	1989	Animation	Children's	
+2124	Addams Family, The 	1991	Comedy		
+2125	Ever After: A Cinderella Story 	1998	Drama	Romance	
+2126	Snake Eyes 	1998	Action	Mystery	Thriller
+2130	Atlantic City 	1980	Crime	Drama	Romance
+2133	Adventures in Babysitting 	1987	Adventure	Comedy	
+2134	Weird Science 	1985	Comedy		
+2135	Doctor Dolittle 	1967	Adventure	Musical	
+2136	Nutty Professor, The 	1963	Comedy		
+2137	Charlotte's Web 	1973	Animation	Children's	
+2138	Watership Down 	1978	Animation	Children's	Drama
+2139	Secret of NIMH, The 	1982	Animation	Children's	
+2140	Dark Crystal, The 	1982	Children's	Fantasy	Sci-Fi
+2141	American Tail, An 	1986	Animation	Children's	Comedy
+2142	American Tail: Fievel Goes West, An 	1991	Animation	Children's	Comedy
+2143	Legend 	1985	Adventure	Fantasy	Romance
+2144	Sixteen Candles 	1984	Comedy		
+2145	Pretty in Pink 	1986	Comedy	Drama	Romance
+2147	Clan of the Cave Bear, The 	1986	Drama		
+2150	Gods Must Be Crazy, The 	1980	Comedy		
+2153	Avengers, The 	1998	Action	Adventure	
+2154	How Stella Got Her Groove Back 	1998	Drama	Romance	
+2155	Slums of Beverly Hills, The 	1998	Comedy		
+2159	Henry: Portrait of a Serial Killer 	1990	Crime	Horror	
+2160	Rosemary's Baby 	1968	Horror	Thriller	
+2161	NeverEnding Story, The 	1984	Adventure	Children's	Fantasy
+2163	Attack of the Killer Tomatoes! 	1980	Comedy	Horror	
+2166	Return to Paradise 	1998	Drama	Romance	
+2167	Blade 	1998	Action	Adventure	Horror
+2171	Next Stop, Wonderland 	1998	Comedy	Drama	Romance
+2174	Beetlejuice 	1988	Comedy	Fantasy	
+2186	Strangers on a Train 	1951	Film-Noir	Thriller	
+2188	54 	1998	Drama		
+2193	Willow 	1988	Action	Adventure	Fantasy
+2194	Untouchables, The 	1987	Action	Crime	Drama
+2201	Paradine Case, The 	1947	Drama		
+2202	Lifeboat 	1944	Drama	Thriller	War
+2203	Shadow of a Doubt 	1943	Film-Noir	Thriller	
+2204	Saboteur 	1942	Thriller		
+2205	Mr. & Mrs. Smith 	1941	Comedy		
+2206	Suspicion 	1941	Mystery	Thriller	
+2208	Lady Vanishes, The 	1938	Comedy	Romance	Thriller
+2210	Sabotage 	1936	Thriller		
+2212	Man Who Knew Too Much, The 	1934	Thriller		
+2221	Blackmail 	1929	Thriller		
+2231	Rounders 	1998	Crime	Drama	
+2232	Cube 	1997	Sci-Fi	Thriller	
+2234	Let's Talk About Sex 	1998	Drama		
+2236	Simon Birch 	1998	Drama		
+2238	Seven Beauties (Pasqualino Settebellezze) 	1976	Comedy	Drama	
+2239	Swept Away (Travolti da un insolito destino nell'azzurro mare d'Agosto) 	1975	Comedy	Drama	
+2240	My Bodyguard 	1980	Drama		
+2241	Class 	1983	Comedy		
+2243	Broadcast News 	1987	Comedy	Drama	Romance
+2245	Working Girl 	1988	Comedy	Drama	
+2247	Married to the Mob 	1988	Comedy		
+2248	Say Anything... 	1989	Comedy	Drama	Romance
+2249	My Blue Heaven 	1990	Comedy		
+2250	Men Don't Leave 	1990	Drama		
+2252	Hero 	1992	Comedy	Drama	
+2253	Toys 	1992	Action	Comedy	Fantasy
+2259	Blame It on Rio 	1984	Comedy	Romance	
+2261	One Crazy Summer 	1986	Comedy		
+2262	About Last Night... 	1986	Comedy	Drama	Romance
+2263	Seventh Sign, The 	1988	Thriller		
+2265	Nothing But Trouble 	1991	Adventure	Comedy	
+2266	Butcher's Wife, The 	1991	Comedy	Romance	
+2267	Mortal Thoughts 	1991	Mystery	Thriller	
+2268	Few Good Men, A 	1992	Crime	Drama	
+2269	Indecent Proposal 	1993	Drama		
+2271	Permanent Midnight 	1998	Drama		
+2272	One True Thing 	1998	Drama		
+2273	Rush Hour 	1998	Action	Thriller	
+2275	Six-String Samurai 	1998	Action	Adventure	Sci-Fi
+2276	Soldier's Daughter Never Cries, A 	1998	Drama		
+2278	Ronin 	1998	Action	Crime	Thriller
+2279	Urban Legend 	1998	Horror	Thriller	
+2280	Clay Pigeons 	1998	Crime		
+2282	Pecker 	1998	Comedy	Drama	
+2287	Them! 	1954	Sci-Fi	Thriller	War
+2288	Thing, The 	1982	Action	Sci-Fi	Thriller
+2289	Player, The 	1992	Comedy	Drama	
+2290	Stardust Memories 	1980	Comedy	Drama	
+2291	Edward Scissorhands 	1990	Drama	Romance	
+2294	Antz 	1998	Animation	Children's	
+2296	Night at the Roxbury, A 	1998	Comedy		
+2297	What Dreams May Come 	1998	Drama	Romance	
+2302	My Cousin Vinny 	1992	Comedy		
+2306	Holy Man 	1998	Comedy		
+2311	2010 	1984	Mystery	Sci-Fi	
+2313	Elephant Man, The 	1980	Drama		
+2318	Happiness 	1998	Comedy		
+2321	Pleasantville 	1998	Comedy		
+2324	Life Is Beautiful (La Vita e bella) 	1997	Comedy	Drama	
+2328	Vampires 	1998	Horror		
+2329	American History X 	1998	Drama		
+2333	Gods and Monsters 	1998	Drama		
+2334	Siege, The 	1998	Action	Thriller	
+2335	Waterboy, The 	1998	Comedy		
+2336	Elizabeth 	1998	Drama		
+2341	Dancing at Lughnasa 	1998	Drama		
+2353	Enemy of the State 	1998	Action	Thriller	
+2355	Bug's Life, A 	1998	Animation	Children's	Comedy
+2359	Waking Ned Devine 	1998	Comedy		
+2366	King Kong 	1933	Action	Adventure	Horror
+2378	Police Academy 	1984	Comedy		
+2382	Police Academy 5: Assignment: Miami Beach 	1988	Comedy		
+2391	Simple Plan, A 	1998	Crime	Thriller	
+2393	Star Trek: Insurrection 	1998	Action	Sci-Fi	
+2394	Prince of Egypt, The 	1998	Animation	Musical	
+2395	Rushmore 	1998	Comedy		
+2396	Shakespeare in Love 	1998	Comedy	Romance	
+2400	Prancer 	1989	Children's	Drama	
+2401	Pale Rider 	1985	Western		
+2402	Rambo: First Blood Part II 	1985	Action	War	
+2403	First Blood 	1982	Action		
+2404	Rambo III 	1988	Action	War	
+2405	Jewel of the Nile, The 	1985	Action	Adventure	Comedy
+2406	Romancing the Stone 	1984	Action	Adventure	Romance
+2407	Cocoon 	1985	Comedy	Sci-Fi	
+2408	Cocoon: The Return 	1988	Comedy	Sci-Fi	
+2409	Rocky II 	1979	Action	Drama	
+2410	Rocky III 	1982	Action	Drama	
+2411	Rocky IV 	1985	Action	Drama	
+2412	Rocky V 	1990	Action	Drama	
+2413	Clue 	1985	Comedy	Mystery	
+2414	Young Sherlock Holmes 	1985	Action	Adventure	Mystery
+2416	Back to School 	1986	Comedy		
+2417	Heartburn 	1986	Comedy	Drama	
+2418	Nothing in Common 	1986	Comedy		
+2419	Extremities 	1986	Drama	Thriller	
+2420	Karate Kid, The 	1984	Drama		
+2421	Karate Kid, Part II, The 	1986	Action	Adventure	Drama
+2422	Karate Kid III, The 	1989	Action	Adventure	Drama
+2423	Christmas Vacation 	1989	Comedy		
+2424	You've Got Mail 	1998	Comedy	Romance	
+2427	Thin Red Line, The 	1998	Action	Drama	War
+2428	Faculty, The 	1998	Horror	Sci-Fi	
+2429	Mighty Joe Young 	1998	Adventure	Children's	Drama
+2430	Mighty Joe Young 	1949	Adventure	Children's	Drama
+2431	Patch Adams 	1998	Comedy	Drama	
+2432	Stepmom 	1998	Drama		
+2433	Civil Action, A 	1998	Drama		
+2436	Tea with Mussolini 	1999	Comedy		
+2439	Affliction 	1997	Drama		
+2441	Hi-Lo Country, The 	1998	Drama	Western	
+2442	Hilary and Jackie 	1998	Drama		
+2443	Playing by Heart 	1998	Drama	Romance	
+2447	Varsity Blues 	1999	Comedy	Drama	
+2448	Virus 	1999	Horror	Sci-Fi	
+2449	Garbage Pail Kids Movie, The 	1987	Adventure	Children's	
+2450	Howard the Duck 	1986	Adventure	Children's	Sci-Fi
+2453	Boy Who Could Fly, The 	1986	Drama	Fantasy	
+2454	Fly, The 	1958	Horror	Sci-Fi	
+2455	Fly, The 	1986	Horror	Sci-Fi	
+2456	Fly II, The 	1989	Horror	Sci-Fi	
+2457	Running Scared 	1986	Action	Comedy	
+2458	Armed and Dangerous 	1986	Comedy	Crime	
+2459	Texas Chainsaw Massacre, The 	1974	Horror		
+2460	Texas Chainsaw Massacre 2, The 	1986	Horror		
+2463	Ruthless People 	1986	Comedy		
+2465	Deadly Friend 	1986	Horror		
+2467	Name of the Rose, The 	1986	Mystery		
+2468	Jumpin' Jack Flash 	1986	Action	Comedy	Romance
+2469	Peggy Sue Got Married 	1986	Comedy	Romance	
+2470	Crocodile Dundee 	1986	Adventure	Comedy	
+2471	Crocodile Dundee II 	1988	Adventure	Comedy	
+2474	Color of Money, The 	1986	Drama		
+2475	52 Pick-Up 	1986	Action	Mystery	Thriller
+2476	Heartbreak Ridge 	1986	Action	War	
+2478	Three Amigos! 	1986	Comedy	Western	
+2482	Still Crazy 	1998	Comedy	Romance	
+2485	She's All That 	1999	Comedy	Romance	
+2488	Peeping Tom 	1960	Drama	Horror	Thriller
+2490	Payback 	1999	Action	Thriller	
+2491	Simply Irresistible 	1999	Comedy	Romance	
+2492	20 Dates 	1998	Comedy		
+2494	Last Days, The 	1998	Documentary		
+2496	Blast from the Past 	1999	Comedy	Romance	
+2497	Message in a Bottle 	1999	Romance		
+2498	My Favorite Martian 	1999	Comedy	Sci-Fi	
+2501	October Sky 	1999	Drama		
+2502	Office Space 	1999	Comedy	Romance	
+2504	200 Cigarettes 	1999	Comedy	Drama	
+2505	8MM 	1999	Thriller		
+2506	Other Sister, The 	1999	Comedy	Drama	Romance
+2511	Long Goodbye, The 	1973	Crime		
+2520	Airport 	1970	Drama		
+2525	Alligator 	1980	Action	Horror	Sci-Fi
+2527	Westworld 	1973	Action	Sci-Fi	Western
+2529	Planet of the Apes 	1968	Action	Sci-Fi	
+2530	Beneath the Planet of the Apes 	1970	Action	Sci-Fi	
+2532	Conquest of the Planet of the Apes 	1972	Action	Sci-Fi	
+2533	Escape from the Planet of the Apes 	1971	Action	Sci-Fi	
+2539	Analyze This 	1999	Comedy		
+2541	Cruel Intentions 	1999	Drama		
+2542	Lock, Stock & Two Smoking Barrels 	1998	Comedy	Crime	Thriller
+2555	Baby Geniuses 	1999	Comedy		
+2567	EDtv 	1999	Comedy		
+2568	Mod Squad, The 	1999	Action	Crime	
+2571	Matrix, The 	1999	Action	Sci-Fi	Thriller
+2572	10 Things I Hate About You 	1999	Comedy	Romance	
+2580	Go 	1999	Crime		
+2581	Never Been Kissed 	1999	Comedy	Romance	
+2596	SLC Punk! 	1998	Comedy	Drama	
+2598	Pushing Tin 	1999	Comedy		
+2599	Election 	1999	Comedy		
+2600	eXistenZ 	1999	Action	Sci-Fi	Thriller
+2605	Entrapment 	1999	Crime	Thriller	
+2606	Idle Hands 	1999	Comedy	Horror	
+2611	Winslow Boy, The 	1998	Drama		
+2613	Night of the Comet 	1984	Action	Horror	Sci-Fi
+2615	My Science Project 	1985	Adventure	Sci-Fi	
+2616	Dick Tracy 	1990	Action	Crime	
+2617	Mummy, The 	1999	Action	Horror	Thriller
+2618	Castle, The 	1997	Comedy		
+2622	Midsummer Night's Dream, A 	1999	Comedy	Fantasy	
+2624	After Life 	1998	Drama		
+2628	Star Wars: Episode I - The Phantom Menace 	1999	Action	Adventure	Fantasy
+2638	Mummy's Tomb, The 	1942	Horror		
+2639	Mommie Dearest 	1981	Drama		
+2640	Superman 	1978	Action	Adventure	Sci-Fi
+2641	Superman II 	1980	Action	Adventure	Sci-Fi
+2642	Superman III 	1983	Action	Adventure	Sci-Fi
+2643	Superman IV: The Quest for Peace 	1987	Action	Adventure	Sci-Fi
+2657	Rocky Horror Picture Show, The 	1975	Horror	Musical	Sci-Fi
+2664	Invasion of the Body Snatchers 	1956	Horror	Sci-Fi	
+2671	Notting Hill 	1999	Comedy	Romance	
+2672	Thirteenth Floor, The 	1999	Drama	Sci-Fi	Thriller
+2676	Instinct 	1999	Drama	Thriller	
+2677	Buena Vista Social Club 	1999	Documentary		
+2682	Limbo 	1999	Drama		
+2683	Austin Powers: The Spy Who Shagged Me 	1999	Comedy		
+2686	Red Violin, The (Le Violon rouge) 	1998	Drama	Mystery	
+2687	Tarzan 	1999	Animation	Children's	
+2690	Ideal Husband, An 	1999	Comedy		
+2692	Run Lola Run (Lola rennt) 	1998	Action	Crime	Romance
+2694	Big Daddy 	1999	Comedy		
+2699	Arachnophobia 	1990	Action	Sci-Fi	Thriller
+2700	South Park: Bigger, Longer and Uncut 	1999	Animation	Comedy	
+2701	Wild Wild West 	1999	Action	Sci-Fi	Western
+2702	Summer of Sam 	1999	Drama		
+2706	American Pie 	1999	Comedy		
+2707	Arlington Road 	1999	Thriller		
+2709	Muppets From Space 	1999	Children's	Comedy	
+2710	Blair Witch Project, The 	1999	Horror		
+2712	Eyes Wide Shut 	1999	Drama		
+2716	Ghostbusters 	1984	Comedy	Horror	
+2718	Drop Dead Gorgeous 	1999	Comedy		
+2723	Mystery Men 	1999	Action	Adventure	Comedy
+2746	Little Shop of Horrors 	1986	Comedy	Horror	Musical
+2748	Allan Quartermain and the Lost City of Gold 	1987	Action	Adventure	
+2759	Dick 	1999	Comedy		
+2762	Sixth Sense, The 	1999	Thriller		
+2764	Thomas Crown Affair, The 	1968	Crime	Drama	Thriller
+2769	Yards, The 	1999	Crime	Mystery	
+2770	Bowfinger 	1999	Comedy		
+2772	Detroit Rock City 	1999	Comedy		
+2791	Airplane! 	1980	Comedy		
+2792	Airplane II: The Sequel 	1982	Comedy		
+2793	American Werewolf in Paris, An 	1997	Comedy	Horror	
+2797	Big 	1988	Comedy	Fantasy	
+2802	Tequila Sunrise 	1988	Action	Romance	Thriller
+2804	Christmas Story, A 	1983	Comedy	Drama	
+2805	Mickey Blue Eyes 	1999	Comedy	Romance	
+2806	Teaching Mrs. Tingle 	1999	Comedy	Thriller	
+2807	Universal Soldier: The Return 	1999	Action	Sci-Fi	
+2808	Universal Soldier 	1992	Action	Sci-Fi	
+2813	Source, The 	1999	Documentary		
+2815	Iron Eagle 	1986	Action	War	
+2817	Aces: Iron Eagle III 	1992	Action	War	
+2819	Three Days of the Condor 	1975	Thriller		
+2820	Hamlet 	1964	Drama		
+2826	13th Warrior, The 	1999	Action	Horror	Thriller
+2827	Astronaut's Wife, The 	1999	Sci-Fi	Thriller	
+2836	Outside Providence 	1999	Comedy		
+2840	Stigmata 	1999	Thriller		
+2841	Stir of Echoes 	1999	Thriller		
+2842	Best Laid Plans 	1999	Crime	Drama	
+2846	Adventures of Milo and Otis, The 	1986	Children's		
+2847	Only Angels Have Wings 	1939	Drama		
+2857	Yellow Submarine 	1968	Animation	Musical	
+2858	American Beauty 	1999	Comedy	Drama	
+2859	Stop Making Sense 	1984	Documentary		
+2861	For Love of the Game 	1999	Comedy	Drama	
+2863	Hard Day's Night, A 	1964	Comedy	Musical	
+2864	Splendor 	1999	Comedy		
+2871	Deliverance 	1972	Adventure	Thriller	
+2872	Excalibur 	1981	Action	Drama	Fantasy
+2879	Operation Condor (Feiying gaiwak) 	1990	Action	Adventure	Comedy
+2881	Double Jeopardy 	1999	Action	Thriller	
+2886	Adventures of Elmo in Grouchland, The 	1999	Children's	Comedy	
+2890	Three Kings 	1999	Drama	War	
+2900	Monkey Shines 	1988	Horror	Sci-Fi	
+2901	Phantasm 	1979	Horror	Sci-Fi	
+2906	Random Hearts 	1999	Drama	Romance	
+2907	Superstar 	1999	Comedy		
+2908	Boys Don't Cry 	1999	Drama		
+2915	Risky Business 	1983	Comedy		
+2916	Total Recall 	1990	Action	Sci-Fi	Thriller
+2917	Body Heat 	1981	Crime	Thriller	
+2918	Ferris Bueller's Day Off 	1986	Comedy		
+2926	Hairspray 	1988	Comedy	Drama	
+2943	Indochine 	1992	Drama	Romance	
+2948	From Russia with Love 	1963	Action		
+2949	Dr. No 	1962	Action		
+2959	Fight Club 	1999	Drama		
+2966	Straight Story, The 	1999	Drama		
+2976	Bringing Out the Dead 	1999	Drama	Horror	
+2985	Robocop 	1987	Action	Crime	Sci-Fi
+2987	Who Framed Roger Rabbit? 	1988	Adventure	Animation	Film-Noir
+2988	Melvin and Howard 	1980	Drama		
+2989	For Your Eyes Only 	1981	Action		
+2990	Licence to Kill 	1989	Action		
+2991	Live and Let Die 	1973	Action		
+2992	Rawhead Rex 	1986	Horror	Thriller	
+2993	Thunderball 	1965	Action		
+2994	City, The 	1998	Drama		
+2995	House on Haunted Hill, The 	1999	Horror		
+2996	Music of the Heart 	1999	Drama		
+2997	Being John Malkovich 	1999	Comedy		
+2998	Dreaming of Joseph Lees 	1998	Romance		
+3000	Princess Mononoke, The (Mononoke Hime) 	1997	Action	Adventure	Animation
+3001	Suburbans, The 	1999	Drama		
+3002	My Best Fiend (Mein liebster Feind) 	1999	Documentary		
+3004	Bachelor, The 	1999	Comedy	Romance	
+3005	Bone Collector, The 	1999	Thriller		
+3006	Insider, The 	1999	Drama		
+3007	American Movie 	1999	Documentary		
+3008	Last Night 	1998	Thriller		
+3010	Rosetta 	1999	Drama		
+3011	They Shoot Horses, Don't They? 	1969	Drama		
+3012	Battling Butler 	1926	Comedy		
+3013	Bride of Re-Animator 	1990	Comedy	Horror	
+3014	Bustin' Loose 	1981	Comedy		
+3015	Coma 	1978	Thriller		
+3016	Creepshow 	1982	Horror		
+3017	Creepshow 2 	1987	Horror		
+3018	Re-Animator 	1985	Horror		
+3019	Drugstore Cowboy 	1989	Crime	Drama	
+3020	Falling Down 	1993	Action	Drama	
+3021	Funhouse, The 	1981	Horror		
+3022	General, The 	1927	Comedy		
+3024	Piranha 	1978	Horror	Sci-Fi	
+3025	Rough Night in Jericho 	1967	Western		
+3028	Taming of the Shrew, The 	1967	Comedy		
+3029	Nighthawks 	1981	Action	Drama	
+3030	Yojimbo 	1961	Comedy	Drama	Western
+3031	Repossessed 	1990	Comedy		
+3032	Omega Man, The 	1971	Sci-Fi		
+3033	Spaceballs 	1987	Comedy	Sci-Fi	
+3034	Robin Hood 	1973	Animation	Children's	
+3035	Mister Roberts 	1955	Comedy	Drama	War
+3036	Quest for Fire 	1981	Adventure		
+3037	Little Big Man 	1970	Comedy	Drama	Western
+3038	Face in the Crowd, A 	1957	Drama		
+3039	Trading Places 	1983	Comedy		
+3040	Meatballs 	1979	Comedy		
+3041	Meatballs Part II 	1984	Comedy		
+3042	Meatballs III 	1987	Comedy		
+3044	Dead Again 	1991	Mystery	Romance	Thriller
+3045	Peter's Friends 	1992	Comedy	Drama	
+3046	Incredibly True Adventure of Two Girls in Love, The 	1995	Comedy	Romance	
+3048	Under the Rainbow 	1981	Comedy		
+3049	How I Won the War 	1967	Comedy	War	
+3051	Anywhere But Here 	1999	Drama		
+3052	Dogma 	1999	Comedy		
+3053	Messenger: The Story of Joan of Arc, The 	1999	Drama	War	
+3054	Pokemon: The First Movie 	1998	Animation	Children's	
+3055	Felicia's Journey 	1999	Thriller		
+3060	Commitments, The 	1991	Comedy	Drama	
+3061	Holiday Inn 	1942	Comedy	Musical	
+3062	Longest Day, The 	1962	Action	Drama	War
+3063	Poison Ivy 	1992	Thriller		
+3064	Poison Ivy: New Seduction 	1997	Thriller		
+3066	Tora! Tora! Tora! 	1970	War		
+3067	Women on the Verge of a Nervous Breakdown 	1988	Comedy	Drama	
+3068	Verdict, The 	1982	Drama		
+3069	Effect of Gamma Rays on Man-in-the-Moon Marigolds, The 	1972	Drama		
+3070	Adventures of Buckaroo Bonzai Across the 8th Dimension, The 	1984	Adventure	Comedy	Sci-Fi
+3071	Stand and Deliver 	1987	Drama		
+3072	Moonstruck 	1987	Comedy		
+3073	Sandpiper, The 	1965	Drama	Romance	
+3074	Jeremiah Johnson 	1972	Western		
+3075	Repulsion 	1965	Thriller		
+3076	Irma la Douce 	1963	Comedy		
+3078	Liberty Heights 	1999	Drama		
+3079	Mansfield Park 	1999	Drama		
+3081	Sleepy Hollow 	1999	Horror	Romance	
+3082	World Is Not Enough, The 	1999	Action	Thriller	
+3083	All About My Mother (Todo Sobre Mi Madre) 	1999	Comedy	Drama	
+3086	March of the Wooden Soldiers (a.k.a. Laurel & Hardy in Toyland) 	1934	Comedy		
+3087	Scrooged 	1988	Comedy		
+3088	Harvey 	1950	Comedy		
+3089	Bicycle Thief, The (Ladri di biciclette) 	1948	Drama		
+3090	Matewan 	1987	Drama		
+3091	Kagemusha 	1980	Drama	War	
+3092	Chushingura 	1962	Drama		
+3093	McCabe & Mrs. Miller 	1971	Drama	Western	
+3094	Maurice 	1987	Drama	Romance	
+3095	Grapes of Wrath, The 	1940	Drama		
+3096	My Man Godfrey 	1957	Comedy		
+3098	Natural, The 	1984	Drama		
+3100	River Runs Through It, A 	1992	Drama		
+3101	Fatal Attraction 	1987	Thriller		
+3104	Midnight Run 	1988	Action	Adventure	Comedy
+3105	Awakenings 	1990	Drama		
+3107	Backdraft 	1991	Action	Drama	
+3108	Fisher King, The 	1991	Comedy	Drama	Romance
+3113	End of Days 	1999	Action	Thriller	
+3114	Toy Story 2 	1999	Animation	Children's	Comedy
+3118	Tumbleweeds 	1999	Drama		
+3122	Santa Fe Trail 	1940	Drama	Romance	Western
+3125	End of the Affair, The 	1999	Drama		
+3130	Bonfire of the Vanities 	1990	Comedy		
+3145	Cradle Will Rock, The 	1999	Drama		
+3147	Green Mile, The 	1999	Drama	Thriller	
+3148	Cider House Rules, The 	1999	Drama		
+3150	War Zone, The 	1999	Drama		
+3152	Last Picture Show, The 	1971	Drama		
+3155	Anna and the King 	1999	Drama	Romance	
+3156	Bicentennial Man 	1999	Comedy	Drama	Sci-Fi
+3157	Stuart Little 	1999	Children's	Comedy	
+3159	Fantasia 2000 	1999	Animation	Children's	Musical
+3160	Magnolia 	1999	Drama		
+3163	Topsy-Turvy 	1999	Drama		
+3168	Easy Rider 	1969	Adventure	Drama	
+3173	Any Given Sunday 	1999	Drama		
+3174	Man on the Moon 	1999	Comedy	Drama	
+3175	Galaxy Quest 	1999	Adventure	Comedy	Sci-Fi
+3176	Talented Mr. Ripley, The 	1999	Drama	Mystery	Thriller
+3177	Next Friday 	1999	Comedy		
+3179	Angela's Ashes 	1999	Drama		
+3181	Titus 	1999	Drama		
+3185	Snow Falling on Cedars 	1999	Drama		
+3186	Girl, Interrupted 	1999	Drama		
+3190	Supernova 	2000	Adventure	Sci-Fi	
+3196	Stalag 17 	1953	Drama	War	
+3200	Last Detail, The 	1973	Comedy	Drama	
+3201	Five Easy Pieces 	1970	Drama		
+3203	Dead Calm 	1989	Thriller		
+3204	Boys from Brazil, The 	1978	Thriller		
+3208	Loaded Weapon 1 	1993	Action	Comedy	
+3210	Fast Times at Ridgemont High 	1982	Comedy		
+3213	Batman: Mask of the Phantasm 	1993	Animation	Children's	
+3217	Star Is Born, A 	1937	Drama		
+3218	Poison 	1991	Drama		
+3219	Pacific Heights 	1990	Thriller		
+3224	Woman in the Dunes (Suna no onna) 	1964	Drama		
+3225	Down to You 	2000	Comedy	Romance	
+3238	Eye of the Beholder 	1999	Thriller		
+3239	Isn't She Great? 	2000	Comedy		
+3240	Big Tease, The 	1999	Comedy		
+3241	Cup, The (Phorpa) 	1999	Comedy		
+3243	Encino Man 	1992	Comedy		
+3246	Malcolm X 	1992	Drama		
+3247	Sister Act 	1992	Comedy	Crime	
+3248	Sister Act 2: Back in the Habit 	1993	Comedy		
+3250	Alive 	1993	Drama		
+3252	Scent of a Woman 	1992	Drama		
+3253	Wayne's World 	1992	Comedy		
+3255	League of Their Own, A 	1992	Comedy	Drama	
+3256	Patriot Games 	1992	Action	Thriller	
+3257	Bodyguard, The 	1992	Action	Romance	Thriller
+3259	Far and Away 	1992	Drama	Romance	
+3260	Howards End 	1992	Drama		
+3261	Singles 	1992	Comedy	Drama	Romance
+3262	Twin Peaks: Fire Walk with Me 	1992	Drama	Mystery	
+3263	White Men Can't Jump 	1992	Comedy		
+3264	Buffy the Vampire Slayer 	1992	Comedy	Horror	
+3265	Hard-Boiled (Lashou shentan) 	1992	Action	Crime	
+3267	Mariachi, El 	1992	Action	Thriller	
+3269	Forever Young 	1992	Adventure	Romance	Sci-Fi
+3271	Of Mice and Men 	1992	Drama		
+3272	Bad Lieutenant 	1992	Crime	Drama	
+3273	Scream 3 	2000	Horror	Mystery	Thriller
+3274	Single White Female 	1992	Action		
+3276	Gun Shy 	2000	Comedy		
+3285	Beach, The 	2000	Adventure	Drama	
+3286	Snow Day 	2000	Comedy		
+3289	Not One Less (Yi ge dou bu neng shao) 	1999	Drama		
+3296	To Sir with Love 	1967	Drama		
+3298	Boiler Room 	2000	Drama		
+3299	Hanging Up 	2000	Comedy	Drama	
+3300	Pitch Black 	2000	Action	Sci-Fi	
+3301	Whole Nine Yards, The 	2000	Comedy	Crime	
+3317	Wonder Boys 	2000	Comedy	Drama	
+3324	Drowning Mona 	2000	Comedy		
+3325	Next Best Thing, The 	2000	Comedy	Drama	
+3328	Ghost Dog: The Way of the Samurai 	1999	Crime	Drama	
+3354	Mission to Mars 	2000	Sci-Fi		
+3355	Ninth Gate, The 	2000	Thriller		
+3358	Defending Your Life 	1991	Comedy	Romance	
+3359	Breaking Away 	1979	Drama		
+3363	American Graffiti 	1973	Comedy	Drama	
+3386	JFK 	1991	Drama	Mystery	
+3396	Muppet Movie, The 	1979	Children's	Comedy	
+3401	Baby... Secret of the Lost Legend 	1985	Adventure	Sci-Fi	
+3402	Turtle Diary 	1985	Drama		
+3405	Night to Remember, A 	1958	Action	Drama	
+3408	Erin Brockovich 	2000	Drama		
+3409	Final Destination 	2000	Drama	Thriller	
+3412	Bear, The 	1988	Adventure		
+3418	Thelma & Louise 	1991	Action	Drama	
+3420	...And Justice for All 	1979	Drama	Thriller	
+3421	Animal House 	1978	Comedy		
+3422	She's Gotta Have It 	1986	Comedy	Romance	
+3423	School Daze 	1988	Drama		
+3424	Do the Right Thing 	1989	Comedy	Drama	
+3426	Jungle Fever 	1991	Drama	Romance	
+3428	Champ, The 	1979	Drama		
+3429	Creature Comforts 	1990	Animation	Comedy	
+3430	Death Wish 	1974	Action	Drama	
+3432	Death Wish 3 	1985	Action	Drama	
+3435	Double Indemnity 	1944	Crime	Film-Noir	
+3436	Dying Young 	1991	Drama	Romance	
+3438	Teenage Mutant Ninja Turtles 	1990	Action	Children's	Fantasy
+3439	Teenage Mutant Ninja Turtles II: The Secret of the Ooze 	1991	Action	Children's	Fantasy
+3440	Teenage Mutant Ninja Turtles III 	1993	Action	Children's	Fantasy
+3441	Red Dawn 	1984	Action	War	
+3444	Bloodsport 	1988	Action		
+3448	Good Morning, Vietnam 	1987	Comedy	Drama	War
+3450	Grumpy Old Men 	1993	Comedy		
+3451	Guess Who's Coming to Dinner 	1967	Comedy	Drama	
+3452	Romeo Must Die 	2000	Action	Romance	
+3457	Waking the Dead 	1999	Drama		
+3459	Gothic 	1986	Drama	Horror	
+3461	Lord of the Flies 	1963	Adventure	Drama	Thriller
+3462	Modern Times 	1936	Comedy		
+3465	That's Life! 	1986	Drama		
+3466	Heart and Souls 	1993	Comedy	Fantasy	
+3467	Hud 	1963	Drama	Western	
+3468	Hustler, The 	1961	Drama		
+3470	Dersu Uzala 	1974	Adventure	Drama	
+3471	Close Encounters of the Third Kind 	1977	Drama	Sci-Fi	
+3476	Jacob's Ladder 	1990	Horror	Mystery	Thriller
+3477	Empire Records 	1995	Comedy	Drama	
+3479	Ladyhawke 	1985	Adventure	Fantasy	Romance
+3480	Lucas 	1986	Drama		
+3481	High Fidelity 	2000	Comedy		
+3483	Road to El Dorado, The 	2000	Animation	Children's	
+3484	Skulls, The 	2000	Thriller		
+3489	Hook 	1991	Adventure	Fantasy	
+3494	True Grit 	1969	Adventure	Western	
+3496	Madame Sousatzka 	1988	Drama		
+3498	Midnight Express 	1978	Drama		
+3499	Misery 	1990	Horror		
+3500	Mr. Saturday Night 	1992	Comedy	Drama	
+3501	Murphy's Romance 	1985	Comedy	Romance	
+3505	No Way Out 	1987	Thriller		
+3509	Black and White 	1999	Drama		
+3510	Frequency 	2000	Drama	Thriller	
+3511	Ready to Rumble 	2000	Comedy		
+3512	Return to Me 	2000	Drama	Romance	
+3513	Rules of Engagement 	2000	Drama	Thriller	
+3514	Joe Gould's Secret 	2000	Drama		
+3515	Me Myself I 	2000	Comedy		
+3516	Bell, Book and Candle 	1958	Comedy	Romance	
+3524	Arthur 	1981	Comedy	Romance	
+3534	28 Days 	2000	Comedy		
+3535	American Psycho 	2000	Comedy	Horror	Thriller
+3536	Keeping the Faith 	2000	Comedy	Romance	
+3537	Where the Money Is 	2000	Comedy	Drama	
+3538	East is East 	1999	Comedy		
+3543	Diner 	1982	Comedy	Drama	
+3544	Shakes the Clown 	1991	Comedy		
+3546	What Ever Happened to Baby Jane? 	1962	Drama	Thriller	
+3552	Caddyshack 	1980	Comedy		
+3555	U-571 	2000	Action	Thriller	
+3556	Virgin Suicides, The 	1999	Comedy	Drama	
+3565	Where the Heart Is 	2000	Comedy	Drama	
+3566	Big Kahuna, The 	2000	Comedy	Drama	
+3569	Idiots, The (Idioterne) 	1998	Comedy	Drama	
+3578	Gladiator 	2000	Action	Drama	
+3591	Mr. Mom 	1983	Comedy	Drama	
+3593	Battlefield Earth 	2000	Action	Sci-Fi	
+3594	Center Stage 	2000	Drama		
+3600	Blue Hawaii 	1961	Comedy	Musical	
+3608	Pee-wee's Big Adventure 	1985	Comedy		
+3614	Honeymoon in Vegas 	1992	Comedy	Romance	
+3615	Dinosaur 	2000	Animation	Children's	
+3616	Loser 	2000	Comedy	Romance	
+3617	Road Trip 	2000	Comedy		
+3618	Small Time Crooks 	2000	Comedy		
+3619	Hollywood Knights, The 	1980	Comedy		
+3623	Mission: Impossible 2 	2000	Action	Thriller	
+3624	Shanghai Noon 	2000	Action		
+3627	Carnival of Souls 	1962	Horror	Thriller	
+3639	Man with the Golden Gun, The 	1974	Action		
+3646	Big Momma's House 	2000	Comedy		
+3654	Guns of Navarone, The 	1961	Action	Drama	War
+3671	Blazing Saddles 	1974	Comedy	Western	
+3676	Eraserhead 	1977	Drama	Horror	
+3680	Decline of Western Civilization Part II: The Metal Years, The 	1988	Documentary		
+3683	Blood Simple 	1984	Drama	Film-Noir	
+3686	Flatliners 	1990	Thriller		
+3688	Porky's 	1981	Comedy		
+3689	Porky's II: The Next Day 	1983	Comedy		
+3697	Predator 2 	1990	Action	Sci-Fi	Thriller
+3698	Running Man, The 	1987	Action	Adventure	Sci-Fi
+3702	Mad Max 	1979	Action	Sci-Fi	
+3706	Angel Heart 	1987	Film-Noir	Mystery	Thriller
+3707	Nine 1/2 Weeks 	1986	Drama		
+3717	Gone in 60 Seconds 	2000	Action	Crime	
+3719	Love's Labour's Lost 	2000	Comedy	Romance	
+3743	Boys and Girls 	2000	Comedy	Romance	
+3745	Titan A.E. 	2000	Adventure	Animation	Sci-Fi
+3746	Butterfly (La Lengua de las Mariposas) 	2000	Drama	War	
+3747	Jesus' Son 	1999	Drama		
+3751	Chicken Run 	2000	Animation	Children's	Comedy
+3752	Me, Myself and Irene 	2000	Comedy		
+3753	Patriot, The 	2000	Action	Drama	War
+3754	Adventures of Rocky and Bullwinkle, The 	2000	Animation	Children's	Comedy
+3755	Perfect Storm, The 	2000	Action	Adventure	Thriller
+3763	F/X 	1986	Action	Crime	Thriller
+3785	Scary Movie 	2000	Comedy	Horror	
+3786	But I'm a Cheerleader 	1999	Comedy		
+3789	Pawnbroker, The 	1965	Drama		
+3790	Groove 	2000	Drama		
+3791	Footloose 	1984	Drama		
+3792	Duel in the Sun 	1946	Western		
+3793	X-Men 	2000	Action	Sci-Fi	
+3794	Chuck & Buck 	2000	Comedy	Drama	
+3795	Five Senses, The 	1999	Drama		
+3796	Wisdom of Crocodiles, The (a.k.a. Immortality) 	2000	Romance	Thriller	
+3797	In Crowd, The 	2000	Thriller		
+3798	What Lies Beneath 	2000	Thriller		
+3799	Pokemon the Movie 2000 	2000	Animation	Children's	
+3807	Sinbad and the Eye of the Tiger 	1977	Action	Adventure	
+3809	What About Bob? 	1991	Comedy		
+3814	Love and Death 	1975	Comedy		
+3819	Tampopo 	1986	Comedy		
+3820	Thomas and the Magic Railroad 	2000	Children's		
+3821	Nutty Professor II: The Klumps 	2000	Comedy		
+3825	Coyote Ugly 	2000	Drama		
+3826	Hollow Man 	2000	Horror	Sci-Fi	Thriller
+3827	Space Cowboys 	2000	Action	Sci-Fi	
+3830	Psycho Beach Party 	2000	Comedy	Horror	Thriller
+3840	Pumpkinhead 	1988	Horror		
+3841	Air America 	1990	Action	Comedy	
+3851	I'm the One That I Want 	2000	Comedy		
+3852	Tao of Steve, The 	2000	Comedy		
+3859	Eyes of Tammy Faye, The 	2000	Documentary		
+3863	Cell, The 	2000	Sci-Fi	Thriller	
+3865	Original Kings of Comedy, The 	2000	Comedy	Documentary	
+3867	All the Rage (a.k.a. It's the Rage) 	1999	Drama		
+3868	Naked Gun: From the Files of Police Squad!, The 	1988	Comedy		
+3869	Naked Gun 2 1/2: The Smell of Fear, The 	1991	Comedy		
+3871	Shane 	1953	Drama	Western	
+3873	Cat Ballou 	1965	Comedy	Western	
+3879	Art of War, The 	2000	Action		
+3882	Bring It On 	2000	Comedy		
+3893	Nurse Betty 	2000	Comedy	Thriller	
+3895	Watcher, The 	2000	Crime	Thriller	
+3896	Way of the Gun, The 	2000	Crime	Thriller	
+3897	Almost Famous 	2000	Comedy	Drama	
+3910	Dancer in the Dark 	2000	Drama	Musical	
+3911	Best in Show 	2000	Comedy		
+3914	Broken Hearts Club, The 	2000	Drama		
+3915	Girlfight 	2000	Drama		
+3916	Remember the Titans 	2000	Drama		
+3920	Faraway, So Close (In Weiter Ferne, So Nah!) 	1993	Drama	Fantasy	
+3927	Fantastic Voyage 	1966	Adventure	Sci-Fi	
+3928	Abbott and Costello Meet Frankenstein 	1948	Comedy	Horror	
+3930	Creature From the Black Lagoon, The 	1954	Horror		
+3931	Giant Gila Monster, The 	1959	Horror	Sci-Fi	
+3932	Invisible Man, The 	1933	Horror	Sci-Fi	
+3933	Killer Shrews, The 	1959	Horror	Sci-Fi	
+3934	Kronos 	1957	Sci-Fi		
+3935	Kronos 	1973	Horror		
+3936	Phantom of the Opera, The 	1943	Drama	Thriller	
+3937	Runaway 	1984	Sci-Fi	Thriller	
+3938	Slumber Party Massacre, The 	1982	Horror		
+3939	Slumber Party Massacre II, The 	1987	Horror		
+3941	Sorority House Massacre 	1986	Horror		
+3942	Sorority House Massacre II 	1990	Horror		
+3943	Bamboozled 	2000	Comedy		
+3944	Bootmen 	2000	Comedy	Drama	
+3945	Digimon: The Movie 	2000	Adventure	Animation	Children's
+3946	Get Carter 	2000	Action	Drama	Thriller
+3947	Get Carter 	1971	Thriller		
+3948	Meet the Parents 	2000	Comedy		
+3949	Requiem for a Dream 	2000	Drama		
+3950	Tigerland 	2000	Drama		
+3951	Two Family House 	2000	Drama		
+3952	Contender, The 	2000	Drama	Thriller	
