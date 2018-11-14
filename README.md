@@ -3,9 +3,9 @@ UMass STAT535 Project - Movie recommendation
 
 ## Milestones
 - November 14th
- - Second dataset ready
- - Look at scikit learn template
- - Start master tree in github
+  - Second dataset ready
+  - Look at scikit learn template
+  - Start master tree in github
  
  - After Thanksgiving
    - Preprocessing
