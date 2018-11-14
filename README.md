@@ -23,6 +23,7 @@ UMass STAT535 Project - Movie recommendation
 
 
 ## A very usful git reference
+http://rogerdudler.github.io/git-guide/
 
 ## Scicit-learn template
 Our class should look like that and implement the same methods (fit, predict)
