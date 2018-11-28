@@ -9,6 +9,9 @@ UMass STAT535 Project - Movie recommendation
 - https://medium.com/@james_aka_yale/the-4-recommendation-engines-that-can-predict-your-movie-tastes-bbec857b8223
 - https://www.kaggle.com/c/predict-movie-ratings
 - https://cseweb.ucsd.edu/classes/wi17/cse258-a/reports/a048.pdf
+- https://github.com/neilsummers/predict_movie_ratings/blob/master/movieratings.py
+- https://medium.com/@connectwithghosh/recommender-system-on-the-movielens-using-an-autoencoder-using-tensorflow-in-python-f13d3e8d600d
+- 
 
 ## Milestones
 - November 14th
