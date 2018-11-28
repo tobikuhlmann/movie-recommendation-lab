@@ -1,6 +1,15 @@
 # Movie-recommendation-lab
 UMass STAT535 Project - Movie recommendation
 
+## Literature
+
+- https://users.ece.cmu.edu/~dbatra/publications/assets/goel_batra_netflix.pdf
+- http://delivery.acm.org/10.1145/1460000/1454012/p11-park.pdf?ip=72.19.68.210&id=1454012&acc=ACTIVE%20SERVICE&key=73B3886B1AEFC4BB%2EB478147E31829731%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1543416754_7f92e0642e26e7ea732886879096c704
+- https://www.kaggle.com/prajitdatta/movielens-100k-dataset/kernels
+- https://medium.com/@james_aka_yale/the-4-recommendation-engines-that-can-predict-your-movie-tastes-bbec857b8223
+- https://www.kaggle.com/c/predict-movie-ratings
+- https://cseweb.ucsd.edu/classes/wi17/cse258-a/reports/a048.pdf
+
 ## Milestones
 - November 14th
   - Second dataset ready
