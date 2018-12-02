@@ -18,7 +18,7 @@ UMass STAT535 Project - Movie recommendation
 - Slide 5: Summary (Tobi)
   - Different recommender systems for different users helpful, dependend on how good user profile
   - Evaluation hard at the beginning, need user feedback
-  - Large datasets necessary
+  - Large datasets necessary (Users with a lot of interaction / information)
 
 
 ## Literature
