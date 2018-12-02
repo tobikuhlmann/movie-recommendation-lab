@@ -6,8 +6,8 @@ UMass STAT535 Project - Movie recommendation
   - Real world recommendation pipeline like it can be used on a website
   - Goal: Build python class which gives you recommended movies for a user
 - Slide 2: Approach
-  - Flow chart of pipeline (three user profile qualities -> three recommender systems (simple classigication algo, content-based filter, collaborative filter)
-- Slide 3: Methods (Not enough time to explain, formulas can be handled as backup
+  - Flow chart of pipeline (three user profile qualities -> three recommender systems (simple classification algo, content-based filter, collaborative filter)
+- Slide 3: Methods (Not enough time to explain, formulas can be handled as backup)
   - Simple: Gradient Boosting Classifier (Boosted, penalized random forest) as black box from sklearn
   - Content-based recommender
   - Collaborative recommender
