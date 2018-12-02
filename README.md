@@ -8,7 +8,7 @@ UMass STAT535 Project - Movie recommendation
 - Slide 2: Approach
   - Flow chart of pipeline (three user profile qualities -> three recommender systems (simple classification algo, content-based filter, collaborative filter)
 - Slide 3: Methods (Not enough time to explain, formulas can be handled as backup)
-  - Simple: Gradient Boosting Classifier (Boosted, penalized random forest) as black box from sklearn
+  - Simple: Random Forest Classifier as black box from sklearn
   - Content-based recommender
   - Collaborative recommender
 - Slide 4: Evaluation problematic
