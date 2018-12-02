@@ -2,20 +2,20 @@
 UMass STAT535 Project - Movie recommendation
 
 ## Presentation
-- Slide 1: Project proposal
+- Slide 1: Project proposal (Tobi)
   - Real world recommendation pipeline like it can be used on a website
   - Goal: Build python class which gives you recommended movies for a user
-- Slide 2: Approach
+- Slide 2: Approach (Tobi)
   - Flow chart of pipeline (three user profile qualities -> three recommender systems (simple classification algo, content-based filter, collaborative filter)
 - Slide 3: Methods (Not enough time to explain, formulas can be handled as backup)
-  - Simple: Random Forest Classifier as black box from sklearn
-  - Content-based recommender
-  - Collaborative recommender
-- Slide 4: Evaluation problematic
+  - Simple: Random Forest Classifier as black box from sklearn (Scott)
+  - Content-based recommender (Tobi)
+  - Collaborative recommender (Sixtus)
+- Slide 4: Evaluation problematic (Sixtus)
   - Simple and collaborative can predict user ratings
   - Not possible for content-based recommender -> No combined evaluation of our system possible
   - Possible solution: Give recommendations and catch feedback from users (how it would work in real-world)
-- Slide 5: Summary
+- Slide 5: Summary (Tobi)
   - Different recommender systems for different users helpful, dependend on how good user profile
   - Evaluation hard at the beginning, need user feedback
   - Large datasets necessary
