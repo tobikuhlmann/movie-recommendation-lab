@@ -2,16 +2,16 @@
 UMass STAT535 Project - Movie recommendation
 
 ## Report (10 pages)
-- Introduction (Tobi 1 page) 1
-- Approach (Tobi 1 page) 1
-- Data description (0.5 page each) 1.5
-- Methods (1.5-2 pages each) 5
+- Introduction (Tobi 1 page) 0.5
+- Approach (Tobi 1 page) 0.5
+- Data description (0.3 page each) 1
+- Methods (1.5 pages each) 5
 - Results and Evaluation (1.5 pageSixtus and Scott) 1.5
 - Conclusion (1 page Sixtus and Tobi) 0.5
 
-- Appendix: Code (Tobi )
+- Appendix: Code 3 or 4 pages (Tobi) or link to git.
 
--> 10 pages + Appendix
+-> max. 10 pages + Appendix
 
 
 
