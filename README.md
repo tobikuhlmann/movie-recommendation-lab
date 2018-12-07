@@ -1,6 +1,18 @@
 # Movie-recommendation-lab
 UMass STAT535 Project - Movie recommendation
 
+## Report (10 pages)
+- Introduction (Tobi 1 page) 1
+- Data description (0.5 page each) 1.5
+- Approach (Tobi 1 page) 1
+- Methods (1.5-2 pages each) 5
+- Results and Evaluation (1.5 pageSixtus and Scott) 1.5
+- Conclusion (1 page Sixtus and Tobi) 0.5
+
+-> 10 pages
+
+
+
 ## Presentation
 - Slide 1: Project proposal (Tobi)
   - Real world recommendation pipeline like it can be used on a website
