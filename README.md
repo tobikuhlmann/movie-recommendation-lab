@@ -9,7 +9,9 @@ UMass STAT535 Project - Movie recommendation
 - Results and Evaluation (1.5 pageSixtus and Scott) 1.5
 - Conclusion (1 page Sixtus and Tobi) 0.5
 
--> 10 pages
+- Appendix: Code (Tobi )
+
+-> 10 pages + Appendix
 
 
 
