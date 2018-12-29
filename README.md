@@ -1,5 +1,6 @@
 # Movie-recommendation-lab
 UMass STAT535 Project - Movie recommendation
+
 Contributors: Sixtus Dakurah, Scott Wu.
 
 ##### Abstract
